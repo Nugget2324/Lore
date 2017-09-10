@@ -1,0 +1,25 @@
+2017-08-25 19:03:21.7819 [DEBUG] Authenticating with server...
+2017-08-25 19:03:21.8988 [DEBUG] Connected to room. (38748:SceneFusion:SceneFusion)
+2017-08-25 19:03:21.9053 [INFO] Connected to server.
+2017-08-25 19:03:21.9058 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-08-25 19:03:21.9058 [DEBUG] Unity Version : 2017.1.0f3
+2017-08-25 19:03:21.9058 [DEBUG] Pro License : False
+2017-08-25 19:03:21.9063 [DEBUG] Platform : WindowsEditor
+2017-08-25 19:03:21.9063 [DEBUG] Build Target : StandaloneWindows64
+2017-08-25 19:03:21.9063 [DEBUG] Scene Fusion version : 1.5.2
+2017-08-25 19:03:21.9068 [DEBUG] User : 
+2017-08-25 19:03:22.1469 [DEBUG] Tier: Beta, Permissions: FFFFFFFF
+2017-08-25 19:03:22.1474 [DEBUG] User Permissions: FFFFFFFF
+2017-08-25 19:03:22.4216 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-08-25 19:03:22.4216 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-08-25 19:03:22.4216 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-08-25 19:03:22.4216 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-08-25 19:03:22.4216 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-08-25 19:03:23.2266 [ERROR] Error setting value: Object type System.Int32 cannot be converted to target type: UnityEngine.LayerMask
+Parameter name: val
+  at System.Reflection.MonoField.SetValue (System.Object obj, System.Object val, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Globalization.CultureInfo culture) [0x000a0] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoField.cs:148 
+  at System.Reflection.FieldInfo.SetValue (System.Object obj, System.Object value) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/FieldInfo.cs:150 
+  at KS.Unity.Editor.ReflectionObject.SetValue (System.Object instance, System.Object value) [0x00000] in <filename unknown>:0 
+2017-08-25 19:03:33.1952 [DEBUG] Disconnecting from room (38748:SceneFusion:SceneFusion)
+2017-08-25 19:03:36.5486 [INFO] Disconnected from server.
+2017-08-25 19:03:36.5491 [DEBUG] Disconnect. (Duration: 10)

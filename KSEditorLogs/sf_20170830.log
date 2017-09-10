@@ -1,0 +1,629 @@
+2017-08-30 12:02:34.0253 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:07:24.7094 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:09:36.7086 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:09:36.7607 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:10:09.1744 [DEBUG] Play mode: False
+2017-08-30 12:13:41.0012 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:13:41.0596 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:13:41.7781 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:57)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:39)
+
+2017-08-30 12:13:45.1710 [DEBUG] Play mode: False
+2017-08-30 12:14:51.3155 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:14:51.3727 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:14:52.0963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:57)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:39)
+
+2017-08-30 12:14:54.5843 [DEBUG] Play mode: False
+2017-08-30 12:15:12.9972 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:15:13.0448 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:15:13.8356 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:57)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:39)
+
+2017-08-30 12:15:25.0437 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:57)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:39)
+
+2017-08-30 12:15:28.2160 [DEBUG] Play mode: False
+2017-08-30 12:16:49.4329 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:16:49.4820 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:16:50.4392 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:57)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:39)
+
+2017-08-30 12:16:53.1061 [DEBUG] Play mode: False
+2017-08-30 12:20:25.1486 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:20:25.1802 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:20:56.3114 [DEBUG] Play mode: False
+2017-08-30 12:22:21.9150 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:22:21.9701 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:22:22.9121 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:58)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:40)
+
+2017-08-30 12:22:25.9754 [DEBUG] Play mode: False
+2017-08-30 12:23:42.6355 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 12:23:42.6957 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 12:23:54.0525 [DEBUG] Play mode: False
+2017-08-30 12:25:27.1123 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 13:44:46.8274 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:11:19.1188 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:18:37.1246 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:18:37.1788 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:18:44.4867 [DEBUG] Play mode: False
+2017-08-30 17:19:03.6187 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:19:03.6437 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:19:11.1713 [DEBUG] Play mode: False
+2017-08-30 17:19:26.7538 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:19:26.8074 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:19:43.6109 [DEBUG] Play mode: False
+2017-08-30 17:19:50.5662 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:19:50.6158 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:20:08.3179 [DEBUG] Play mode: False
+2017-08-30 17:20:38.5013 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:20:38.5800 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:20:55.7236 [DEBUG] Play mode: False
+2017-08-30 17:23:43.1604 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:23:43.2008 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:23:56.3542 [DEBUG] Play mode: False
+2017-08-30 17:27:43.6819 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:27:43.7100 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:27:49.2806 [DEBUG] Play mode: False
+2017-08-30 17:39:17.2786 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:39:17.3243 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:39:31.0606 [DEBUG] Play mode: False
+2017-08-30 17:39:45.6853 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:39:45.7289 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:39:57.4780 [DEBUG] Play mode: False
+2017-08-30 17:40:48.6489 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:40:48.6785 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:40:55.4437 [DEBUG] Play mode: False
+2017-08-30 17:41:03.4275 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:41:03.4691 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:41:08.7332 [DEBUG] Play mode: False
+2017-08-30 17:41:47.7096 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:41:47.7396 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:43:16.7284 [DEBUG] Play mode: False
+2017-08-30 17:48:00.8886 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:50:13.0378 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:50:13.0869 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:50:24.2262 [DEBUG] Play mode: False
+2017-08-30 17:51:41.7478 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:51:41.7989 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:51:51.3364 [DEBUG] Play mode: False
+2017-08-30 17:52:44.5379 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:52:44.5649 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 17:53:19.5552 [DEBUG] Play mode: False
+2017-08-30 17:57:41.1131 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 17:58:47.8942 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:06:32.6455 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:06:32.6866 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:06:51.2052 [DEBUG] Play mode: False
+2017-08-30 18:07:06.1296 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:07:06.1832 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:07:21.1689 [DEBUG] Play mode: False
+2017-08-30 18:07:25.5754 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:07:25.6261 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:07:30.6665 [DEBUG] Play mode: False
+2017-08-30 18:08:13.4540 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:08:13.5016 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:08:23.7579 [DEBUG] Play mode: False
+2017-08-30 18:08:46.4954 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:08:46.5480 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:08:52.1202 [DEBUG] Play mode: False
+2017-08-30 18:09:04.8407 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:09:04.8954 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:09:21.6391 [DEBUG] Play mode: False
+2017-08-30 18:11:23.1214 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:11:23.1725 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:11:33.7151 [DEBUG] Play mode: False
+2017-08-30 18:11:48.6775 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:11:48.7287 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:11:51.8552 [DEBUG] Play mode: False
+2017-08-30 18:12:59.3903 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:12:59.4264 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:13:06.9956 [DEBUG] Play mode: False
+2017-08-30 18:13:41.4473 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:13:41.5029 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:13:46.2669 [DEBUG] Play mode: False
+2017-08-30 18:14:53.9317 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:14:53.9864 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:15:28.6158 [DEBUG] Play mode: False
+2017-08-30 18:16:33.7479 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:16:33.7955 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:17:21.2826 [DEBUG] Play mode: False
+2017-08-30 18:35:00.9689 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:35:01.0220 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:41:48.7688 [DEBUG] Play mode: False
+2017-08-30 18:55:01.4418 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:55:01.4889 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:55:11.4953 [DEBUG] Play mode: False
+2017-08-30 18:55:42.6931 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:55:52.3656 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:55:52.4162 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:56:47.3785 [DEBUG] Play mode: False
+2017-08-30 18:58:15.4970 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 18:58:15.5381 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 18:58:57.7833 [DEBUG] Play mode: False
+2017-08-30 19:00:45.2127 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 19:00:57.0473 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 19:00:57.0984 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 19:01:14.4855 [DEBUG] Play mode: False
+2017-08-30 19:01:23.0492 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 19:01:23.0968 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 19:01:24.7959 [DEBUG] Play mode: False
+2017-08-30 19:01:47.7881 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 19:01:47.8237 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 19:02:07.2996 [DEBUG] Play mode: False
+2017-08-30 19:23:22.1500 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 19:23:58.3359 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 19:23:58.3966 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 19:24:08.4858 [DEBUG] Play mode: False
+2017-08-30 19:25:00.0865 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 19:25:00.1351 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 19:25:05.9238 [DEBUG] Play mode: False
+2017-08-30 20:03:45.9865 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:03:46.0376 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:04:00.7586 [DEBUG] Play mode: False
+2017-08-30 20:31:22.7601 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:31:22.8083 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:31:27.8620 [DEBUG] Play mode: False
+2017-08-30 20:31:35.2943 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:31:35.3410 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:31:39.9570 [DEBUG] Play mode: False
+2017-08-30 20:35:00.0419 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:35:00.0986 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:35:01.9753 [DEBUG] Play mode: False
+2017-08-30 20:45:14.5215 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:45:14.5737 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:45:15.7896 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:60)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:42)
+
+2017-08-30 20:45:19.2713 [DEBUG] Play mode: False
+2017-08-30 20:45:39.5321 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:45:39.5873 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:45:40.5154 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.Defender.DetectAction () (at Assets/New Scripts/Defender.cs:60)
+NS.Defender.Update () (at Assets/New Scripts/Defender.cs:42)
+
+2017-08-30 20:45:46.1510 [DEBUG] Play mode: False
+2017-08-30 20:46:11.3055 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:46:11.3596 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:46:17.5791 [DEBUG] Play mode: False
+2017-08-30 20:46:28.1927 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:46:28.2418 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:46:31.2003 [DEBUG] Play mode: False
+2017-08-30 20:46:37.4846 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:46:37.5603 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:46:39.9954 [DEBUG] Play mode: False
+2017-08-30 20:47:00.0635 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:47:00.1177 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:47:03.0299 [DEBUG] Play mode: False
+2017-08-30 20:47:10.6133 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:47:10.6655 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:47:40.8486 [DEBUG] Play mode: False
+2017-08-30 20:49:02.6446 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:49:09.7447 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:49:09.8079 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:49:35.8344 [DEBUG] Play mode: False
+2017-08-30 20:50:20.8312 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 20:50:20.8567 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 20:51:12.7174 [DEBUG] Play mode: False
+2017-08-30 21:09:56.0601 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:10:01.9405 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:10:01.9947 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:10:06.0664 [DEBUG] Play mode: False
+2017-08-30 21:10:12.5241 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:10:12.5843 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:10:15.4520 [DEBUG] Play mode: False
+2017-08-30 21:10:21.2790 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:10:21.3342 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:10:24.6548 [DEBUG] Play mode: False
+2017-08-30 21:10:30.5562 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:10:30.6108 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:10:37.8064 [DEBUG] Play mode: False
+2017-08-30 21:10:44.1412 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:10:44.2014 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:10:48.7985 [DEBUG] Play mode: False
+2017-08-30 21:10:54.3453 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:10:54.3999 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:11:02.5540 [DEBUG] Play mode: False
+2017-08-30 21:11:59.8124 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:11:59.8711 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:12:09.1148 [DEBUG] Play mode: False
+2017-08-30 21:12:15.7392 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:12:15.7948 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:12:23.8603 [DEBUG] Play mode: False
+2017-08-30 21:13:49.1838 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:13:52.4526 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:13:52.5118 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:13:59.1397 [DEBUG] Play mode: False
+2017-08-30 21:14:43.5314 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:17:31.5030 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:17:31.5582 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:17:58.5678 [DEBUG] Play mode: False
+2017-08-30 21:18:16.0056 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:18:18.5034 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:18:18.5566 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:18:44.5730 [DEBUG] Play mode: False
+2017-08-30 21:19:52.9095 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:19:52.9717 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:20:34.6695 [DEBUG] Play mode: False
+2017-08-30 21:21:36.9616 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:21:37.0228 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:21:39.2790 [DEBUG] Play mode: False
+2017-08-30 21:22:37.9114 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:22:37.9651 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:22:39.5539 [DEBUG] Play mode: False
+2017-08-30 21:24:43.9608 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:24:43.9959 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:24:45.9571 [DEBUG] Play mode: False
+2017-08-30 21:26:13.3892 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:26:13.4459 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:26:15.0908 [DEBUG] Play mode: False
+2017-08-30 21:27:24.1181 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:27:24.1722 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:27:26.0719 [DEBUG] Play mode: False
+2017-08-30 21:30:01.3552 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:30:01.4073 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:30:03.1504 [DEBUG] Play mode: False
+2017-08-30 21:30:09.7402 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:30:09.7903 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:30:13.9062 [DEBUG] Play mode: False
+2017-08-30 21:30:37.7305 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:30:37.7922 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:30:47.0018 [DEBUG] Play mode: False
+2017-08-30 21:31:24.5165 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:31:24.5756 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:31:40.7946 [DEBUG] Play mode: False
+2017-08-30 21:34:50.6873 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:34:50.7384 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:34:52.7132 [DEBUG] Play mode: False
+2017-08-30 21:35:04.3663 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:35:04.4202 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:35:08.9495 [DEBUG] Play mode: False
+2017-08-30 21:46:38.8004 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:47:57.3212 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:47:57.3598 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:47:59.3058 [DEBUG] Play mode: False
+2017-08-30 21:48:08.7175 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:48:08.7636 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:48:10.0414 [DEBUG] Play mode: False
+2017-08-30 21:49:18.1418 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:49:18.2055 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:49:27.3371 [DEBUG] Play mode: False
+2017-08-30 21:50:54.7963 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:50:54.8575 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:50:56.3116 [DEBUG] Play mode: False
+2017-08-30 21:52:49.2260 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:52:49.2771 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:52:52.2267 [DEBUG] Play mode: False
+2017-08-30 21:56:11.6408 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:56:21.0110 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:57:09.3249 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 21:57:09.3484 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 21:57:15.9044 [DEBUG] Play mode: False
+2017-08-30 22:02:25.5774 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:03:25.0926 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:03:27.3458 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:03:27.3939 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:03:50.1007 [DEBUG] Play mode: False
+2017-08-30 22:06:47.9401 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:06:47.9848 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:06:55.3152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.EnemyAIDamage.OnTriggerEnter (UnityEngine.Collider other) (at Assets/New Scripts/EnemyAIDamage.cs:13)
+
+2017-08-30 22:07:10.2168 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.EnemyAIDamage.OnTriggerEnter (UnityEngine.Collider other) (at Assets/New Scripts/EnemyAIDamage.cs:13)
+
+2017-08-30 22:07:14.1595 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:07:14.5410 [DEBUG] Play mode: False
+2017-08-30 22:07:16.4130 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:07:16.4546 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:07:20.3563 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.EnemyAIDamage.OnTriggerEnter (UnityEngine.Collider other) (at Assets/New Scripts/EnemyAIDamage.cs:13)
+
+2017-08-30 22:07:24.8157 [DEBUG] Play mode: False
+2017-08-30 22:08:42.7843 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:08:42.8325 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:08:46.0544 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+NS.EnemyAIDamage.OnTriggerEnter (UnityEngine.Collider other) (at Assets/New Scripts/EnemyAIDamage.cs:13)
+
+2017-08-30 22:10:00.6711 [DEBUG] Play mode: False
+2017-08-30 22:10:04.0232 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:10:30.4112 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:10:36.9570 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:10:36.9896 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:10:55.0912 [DEBUG] Play mode: False
+2017-08-30 22:10:57.3770 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:10:57.4271 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:11:06.6312 [DEBUG] Play mode: False
+2017-08-30 22:11:13.6029 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:11:13.6527 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:11:38.6397 [DEBUG] Play mode: False
+2017-08-30 22:14:08.6390 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:14:08.6957 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:14:42.0318 [DEBUG] Play mode: False
+2017-08-30 22:15:00.3653 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:15:47.6156 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:15:47.6482 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:16:03.1530 [DEBUG] Play mode: False
+2017-08-30 22:16:09.4267 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:16:09.4673 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:16:21.9299 [DEBUG] Play mode: False
+2017-08-30 22:16:37.1844 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:16:37.2270 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:17:34.4664 [DEBUG] Play mode: False
+2017-08-30 22:30:00.4007 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:30:19.0833 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:30:19.1329 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:30:39.0355 [DEBUG] Play mode: False
+2017-08-30 22:30:59.5634 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:30:59.6130 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:31:04.4507 [DEBUG] Play mode: False
+2017-08-30 22:34:02.1909 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:34:02.2405 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:34:10.3316 [DEBUG] Play mode: False
+2017-08-30 22:34:21.4419 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:34:21.4906 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:34:29.5631 [DEBUG] Play mode: False
+2017-08-30 22:35:03.4233 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:35:03.4845 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:35:10.7536 [DEBUG] Play mode: False
+2017-08-30 22:35:22.7918 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:35:22.8424 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:35:25.1625 [DEBUG] Play mode: False
+2017-08-30 22:37:00.9945 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:37:01.0426 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:38:47.0439 [DEBUG] Play mode: False
+2017-08-30 22:39:54.7543 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:39:54.8036 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:40:24.8024 [DEBUG] Play mode: False
+2017-08-30 22:41:10.9609 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:41:11.0120 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:41:41.3842 [DEBUG] Play mode: False
+2017-08-30 22:41:44.8069 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 22:41:44.8335 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 22:42:23.6951 [DEBUG] Play mode: False
+2017-08-30 22:45:53.5853 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:03:45.3530 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:03:45.4056 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:04:13.0058 [DEBUG] Play mode: False
+2017-08-30 23:05:57.5365 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:05:57.5892 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:06:17.9769 [DEBUG] Play mode: False
+2017-08-30 23:07:32.3915 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:07:32.4436 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:07:44.6197 [DEBUG] Play mode: False
+2017-08-30 23:07:52.3445 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:07:52.3976 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:08:00.2192 [DEBUG] Play mode: False
+2017-08-30 23:08:46.6888 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:10:02.0169 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:10:02.0645 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:10:14.3408 [DEBUG] Play mode: False
+2017-08-30 23:17:18.9251 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:17:18.9837 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:18:29.1725 [DEBUG] Play mode: False
+2017-08-30 23:18:52.6862 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:18:52.7329 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:19:03.3911 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:19:06.5109 [DEBUG] Play mode: False
+2017-08-30 23:19:15.0423 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:19:15.0834 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:19:26.6272 [DEBUG] Play mode: False
+2017-08-30 23:21:52.3902 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:21:52.4378 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:22:13.8183 [DEBUG] Play mode: False
+2017-08-30 23:23:59.2206 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:23:59.2667 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:24:25.1667 [DEBUG] Play mode: False
+2017-08-30 23:27:25.0636 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:27:25.1077 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:27:33.9128 [DEBUG] Play mode: False
+2017-08-30 23:29:52.2286 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:29:52.2792 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:30:01.2805 [DEBUG] Play mode: False
+2017-08-30 23:30:52.9224 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:30:52.9484 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:31:32.7834 [DEBUG] Play mode: False
+2017-08-30 23:34:10.0745 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:34:27.2342 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:30.0259 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:34:30.4084 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:30.4124 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:31.1901 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:31.8701 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:32.7691 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:33.7367 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:34.8409 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:35.2420 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:52.4104 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:52.8978 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:34:55.2063 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:35:48.1417 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:36:32.0321 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:36:34.9516 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.Graphs.ParameterControllerView.HasKeyboardControl () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/ParameterControllerView.cs:762)
+UnityEditor.Graphs.AnimatorControllerTool.OnGUI () (at C:/buildslave/unity/build/Editor/Graphs/UnityEditor.Graphs/Animation/AnimatorControllerTool.cs:1006)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-08-30 23:37:12.7662 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:37:12.8203 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:37:33.1516 [DEBUG] Play mode: False
+2017-08-30 23:38:40.5175 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:38:40.5436 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:38:51.8589 [DEBUG] Play mode: False
+2017-08-30 23:40:24.9488 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:40:24.9919 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:40:59.3039 [DEBUG] Play mode: False
+2017-08-30 23:41:28.2529 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:41:28.2785 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:41:59.4820 [DEBUG] Play mode: False
+2017-08-30 23:42:38.2556 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:42:38.2987 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:43:10.3881 [DEBUG] Play mode: False
+2017-08-30 23:43:22.8780 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:43:22.9186 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:43:42.6152 [DEBUG] Play mode: False
+2017-08-30 23:43:58.7857 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:43:58.8112 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:44:07.7853 [DEBUG] Play mode: False
+2017-08-30 23:44:18.1840 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:44:18.2246 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:44:41.5602 [DEBUG] Play mode: False
+2017-08-30 23:45:41.5930 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:45:41.6376 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:45:49.0306 [DEBUG] Play mode: False
+2017-08-30 23:46:17.8112 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:46:17.8559 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:47:09.4514 [DEBUG] Play mode: False
+2017-08-30 23:52:33.3380 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:52:33.3621 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:52:44.3178 [DEBUG] Play mode: False
+2017-08-30 23:55:48.4555 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:55:48.4986 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:56:16.5842 [DEBUG] Play mode: False
+2017-08-30 23:56:38.2333 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:56:38.2755 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:57:28.8439 [DEBUG] Play mode: False
+2017-08-30 23:57:42.2318 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:57:42.2774 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:57:52.7730 [DEBUG] Play mode: False
+2017-08-30 23:58:40.4361 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:59:01.1025 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:59:01.1466 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:59:13.1471 [DEBUG] Play mode: False
+2017-08-30 23:59:46.9503 [DEBUG] Scene Fusion version 1.5.2
+2017-08-30 23:59:46.9941 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-30 23:59:54.4171 [DEBUG] Play mode: False

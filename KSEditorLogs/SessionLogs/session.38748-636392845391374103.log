@@ -1,0 +1,48 @@
+2017-08-25 19:02:19.2772 [DEBUG] Authenticating with server...
+2017-08-25 19:02:19.3755 [DEBUG] Connected to room. (38748:SceneFusion:SceneFusion)
+2017-08-25 19:02:19.3885 [INFO] Connected to server.
+2017-08-25 19:02:19.3885 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-08-25 19:02:19.3885 [DEBUG] Unity Version : 2017.1.0f3
+2017-08-25 19:02:19.3890 [DEBUG] Pro License : False
+2017-08-25 19:02:19.3890 [DEBUG] Platform : WindowsEditor
+2017-08-25 19:02:19.3890 [DEBUG] Build Target : StandaloneWindows64
+2017-08-25 19:02:19.3890 [DEBUG] Scene Fusion version : 1.5.2
+2017-08-25 19:02:19.3895 [DEBUG] User : 
+2017-08-25 19:02:19.5825 [DEBUG] Tier: Beta, Permissions: FFFFFFFF
+2017-08-25 19:02:19.5825 [DEBUG] User Permissions: FFFFFFFF
+2017-08-25 19:02:19.8192 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-08-25 19:02:19.8192 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-08-25 19:02:19.8197 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-08-25 19:02:19.8197 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-08-25 19:02:19.8197 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-08-25 19:02:20.7889 [ERROR] ArgumentException: Object type System.Int32 cannot be converted to target type: UnityEngine.LayerMask
+Parameter name: val
+System.Reflection.MonoField.SetValue (System.Object obj, System.Object val, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoField.cs:148)
+System.Reflection.FieldInfo.SetValue (System.Object obj, System.Object value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/FieldInfo.cs:150)
+KS.Unity.Editor.ReflectionObject.SetValue (System.Object instance, System.Object value)
+UnityEngine.Debug:LogException(Exception)
+KS.Reactor.ksLog:LogToUnity(Level, String, String, Exception, Object)
+KS.Reactor.ksLog:HandleLog(String, String, String, Exception, Level, Object)
+KS.Reactor.ksLog:Log(ReflectionObject, String, Exception, Level, Object)
+KS.Reactor.ksLog:Error(ReflectionObject, String, Exception)
+KS.Unity.Editor.ReflectionObject:SetValue(Object, Object)
+KS.SceneFusion.Client.Editor.<>c__DisplayClass4_0`1:<SetValue>b__0()
+KS.SceneFusion.Client.Editor.SSPropertyModification:Apply()
+KS.SceneFusion.Client.Editor.SSObject:ApplyChanges()
+KS.SceneFusion.Client.Editor.ComponentManager:DeserializeComponent(Component, ComponentInfo)
+KS.SceneFusion.Client.Editor.ComponentManager:InitializeComponents(List`1)
+KS.SceneFusion.Client.Editor.ComponentManager:SetGameObject(GameObject)
+KS.SceneFusion.Client.Editor.ObjectEntity:CreateOrFindGameObject()
+KS.SceneFusion.Client.Editor.ObjectManager:ProcessLoadQueue()
+KS.SceneFusion.Client.Editor.ObjectManager:Update()
+KS.SceneFusion.Client.Editor.CoEditService:Update()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions()
+
+2017-08-25 19:02:20.7894 [ERROR] Error setting value: Object type System.Int32 cannot be converted to target type: UnityEngine.LayerMask
+Parameter name: val
+  at System.Reflection.MonoField.SetValue (System.Object obj, System.Object val, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Globalization.CultureInfo culture) [0x000a0] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoField.cs:148 
+  at System.Reflection.FieldInfo.SetValue (System.Object obj, System.Object value) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/FieldInfo.cs:150 
+  at KS.Unity.Editor.ReflectionObject.SetValue (System.Object instance, System.Object value) [0x00000] in <filename unknown>:0 
+2017-08-25 19:02:32.8881 [DEBUG] Disconnecting from room (38748:SceneFusion:SceneFusion)
+2017-08-25 19:02:32.8946 [INFO] Disconnected from server.
+2017-08-25 19:02:32.8946 [DEBUG] Disconnect. (Duration: 13)

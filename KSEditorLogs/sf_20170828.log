@@ -1,0 +1,1124 @@
+2017-08-28 00:24:02.0422 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:24:02.1209 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:24:26.5243 [DEBUG] Play mode: False
+2017-08-28 00:27:36.2325 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:27:36.3102 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:27:45.7986 [DEBUG] Play mode: False
+2017-08-28 00:28:22.8838 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:28:22.9675 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:28:27.5257 [DEBUG] Play mode: False
+2017-08-28 00:29:28.2038 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:29:28.2965 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:29:51.8600 [DEBUG] Play mode: False
+2017-08-28 00:31:31.5468 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:31:31.6335 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:31:53.9314 [DEBUG] Play mode: False
+2017-08-28 00:32:04.8982 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:32:04.9909 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:32:21.6687 [DEBUG] Play mode: False
+2017-08-28 00:32:51.2596 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:32:51.3484 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:33:14.9640 [DEBUG] Play mode: False
+2017-08-28 00:35:35.7875 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:35:35.8738 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:36:02.6834 [DEBUG] Play mode: False
+2017-08-28 00:36:37.2183 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:36:37.3071 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:37:02.6465 [DEBUG] Play mode: False
+2017-08-28 00:37:35.5219 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:37:35.6032 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:37:43.7984 [DEBUG] Play mode: False
+2017-08-28 00:38:17.0555 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:38:17.1393 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:38:36.1212 [DEBUG] Play mode: False
+2017-08-28 00:38:48.8782 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:38:48.9203 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:38:58.1178 [DEBUG] Play mode: False
+2017-08-28 00:39:20.4160 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:39:20.5023 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:39:28.3828 [DEBUG] Play mode: False
+2017-08-28 00:39:37.4160 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:39:37.4982 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:40:42.1942 [DEBUG] Play mode: False
+2017-08-28 00:55:40.7173 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:55:40.7940 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:56:04.3384 [DEBUG] Play mode: False
+2017-08-28 00:56:11.1216 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 00:56:11.1990 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 00:56:16.4122 [DEBUG] Play mode: False
+2017-08-28 01:00:23.1480 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:00:55.7295 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:00:55.8073 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:01:13.9933 [DEBUG] Play mode: False
+2017-08-28 01:10:45.4774 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:10:45.5561 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:10:59.1610 [DEBUG] Play mode: False
+2017-08-28 01:11:18.1095 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:11:18.2082 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:11:31.8349 [DEBUG] Play mode: False
+2017-08-28 01:26:57.4908 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:26:57.5710 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:26:57.6530 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:57.6596 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:58.3891 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:58.4220 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:58.8700 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:58.9368 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:59.8921 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:59.9087 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:26:59.9745 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:00.5368 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:00.5536 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:00.5705 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:00.6196 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.1997 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.2159 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.2332 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.2825 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.2991 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.4825 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.5478 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.5809 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.9121 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.9287 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.9780 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:01.9952 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.0112 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.1646 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.1966 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.2132 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.2298 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.4127 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.4297 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.4619 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.4786 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.4951 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.6779 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.7110 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.7599 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.7765 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.7926 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:02.8092 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.1747 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.1914 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.2252 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.2405 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.2565 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.3392 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.3558 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.3891 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.4219 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.5380 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.5550 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.5881 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.6207 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.7536 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.7702 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.7868 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.9193 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.9356 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.9523 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:03.9693 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.0020 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.0681 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.1179 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.1343 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.1509 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.2342 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.2505 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.2673 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.3001 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.3167 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.4163 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.4499 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.4823 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.4987 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.5152 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.7812 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.8146 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.8475 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.8798 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.9625 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.9798 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:04.9957 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.0130 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.0290 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:132)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.1781 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.2113 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.2281 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.3935 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.4098 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:136)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:05.4434 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:140)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:09.3226 [DEBUG] Play mode: False
+2017-08-28 01:27:39.8634 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:27:39.9442 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:27:40.4855 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:127)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:40.4935 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:144)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:40.5101 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+UnityEngine.Animation.PlayQueued (System.String animation, QueueMode queue) (at C:/buildslave/unity/build/artifacts/generated/common/modules/Animation/AnimationsBindings.gen.cs:497)
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:144)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:78)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 01:27:43.7829 [DEBUG] Play mode: False
+2017-08-28 01:35:15.3873 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:38:18.1648 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:38:18.2460 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:38:33.3218 [DEBUG] Play mode: False
+2017-08-28 01:43:31.3394 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:43:31.4267 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:43:37.3463 [DEBUG] Play mode: False
+2017-08-28 01:47:41.8594 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:47:41.9522 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:47:58.7442 [DEBUG] Play mode: False
+2017-08-28 01:48:04.7829 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:48:04.8711 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:48:13.3860 [DEBUG] Play mode: False
+2017-08-28 01:48:20.3826 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:48:20.4749 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:48:53.5021 [DEBUG] Play mode: False
+2017-08-28 01:49:02.8683 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:49:02.9561 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:49:18.8928 [DEBUG] Play mode: False
+2017-08-28 01:49:34.4190 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:49:34.5083 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:49:42.6052 [DEBUG] Play mode: False
+2017-08-28 01:50:49.6185 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:50:49.7168 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:51:05.1018 [DEBUG] Play mode: False
+2017-08-28 01:51:22.0614 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:51:22.1536 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:51:30.5365 [DEBUG] Play mode: False
+2017-08-28 01:51:37.9044 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:51:37.9953 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:51:41.3951 [DEBUG] Play mode: False
+2017-08-28 01:51:48.0724 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:51:48.1657 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:51:58.0724 [DEBUG] Play mode: False
+2017-08-28 01:52:19.2092 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 01:52:19.2985 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 01:52:33.9970 [DEBUG] Play mode: False
+2017-08-28 02:14:31.3744 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:15:23.0462 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:15:23.1319 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:15:37.7079 [DEBUG] Play mode: False
+2017-08-28 02:15:41.1098 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:15:41.1870 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:17:06.0956 [DEBUG] Play mode: False
+2017-08-28 02:19:54.1333 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:19:54.2189 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:20:12.2334 [DEBUG] Play mode: False
+2017-08-28 02:20:35.3747 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:20:35.4580 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:21:20.1820 [DEBUG] Play mode: False
+2017-08-28 02:21:35.9241 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:21:36.0079 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:21:57.0649 [DEBUG] Play mode: False
+2017-08-28 02:22:09.0708 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:22:09.1473 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:22:13.3108 [DEBUG] Play mode: False
+2017-08-28 02:22:19.0286 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:22:19.1173 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:22:44.1695 [DEBUG] Play mode: False
+2017-08-28 02:25:06.6158 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:25:06.6940 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:25:20.7051 [DEBUG] Play mode: False
+2017-08-28 02:29:58.9855 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:29:59.0667 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:30:09.5015 [DEBUG] Play mode: False
+2017-08-28 02:30:33.1183 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:30:33.1906 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:30:37.4890 [DEBUG] Play mode: False
+2017-08-28 02:31:05.7203 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:31:05.8011 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:31:08.6909 [DEBUG] Play mode: False
+2017-08-28 02:31:22.6392 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:31:22.7224 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:31:27.7976 [DEBUG] Play mode: False
+2017-08-28 02:32:00.4575 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:32:00.5358 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:32:09.9081 [DEBUG] Play mode: False
+2017-08-28 02:32:39.9850 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:32:40.0421 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:32:50.3179 [DEBUG] Play mode: False
+2017-08-28 02:33:30.9935 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 02:33:31.0757 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 02:33:35.8078 [DEBUG] Play mode: False
+2017-08-28 09:07:17.0965 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:12:00.0666 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:12:15.9562 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:12:16.0400 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:12:16.1178 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:128)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:81)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 09:12:16.1725 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:128)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:81)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 09:12:16.1735 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:128)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:81)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 09:12:16.1745 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:128)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:81)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 09:12:16.2061 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:128)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:81)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 09:12:16.2231 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:128)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:81)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 09:12:16.2391 [ERROR] MissingComponentException: There is no 'Animation' attached to the "Paladin_w_Prop_J_Nordstrom" game object, but a script is trying to access it.
+You probably need to add a Animation to the game object "Paladin_w_Prop_J_Nordstrom". Or your script needs to check if the component is attached before using it.
+PI.PlayerInput.DetectAction () (at Assets/Scripts/PlayerInput.cs:128)
+PI.PlayerInput.FixedTick (Single d) (at Assets/Scripts/PlayerInput.cs:81)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 09:12:19.1040 [DEBUG] Play mode: False
+2017-08-28 09:14:43.7451 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:14:43.8303 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:14:50.5490 [DEBUG] Play mode: False
+2017-08-28 09:14:56.3202 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:14:56.4190 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:15:04.9889 [DEBUG] Play mode: False
+2017-08-28 09:16:31.9546 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:16:32.0475 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:16:39.5343 [DEBUG] Play mode: False
+2017-08-28 09:18:25.0495 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:18:29.9262 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:18:30.0125 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:18:36.6266 [DEBUG] Play mode: False
+2017-08-28 09:26:26.2260 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:26:37.8080 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:26:37.9198 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:27:09.6103 [DEBUG] Play mode: False
+2017-08-28 09:31:43.5765 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:31:50.4427 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:31:50.5231 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:31:58.9536 [DEBUG] Play mode: False
+2017-08-28 09:35:42.7265 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:35:42.8097 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:35:56.1880 [DEBUG] Play mode: False
+2017-08-28 09:36:36.6131 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:36:36.6944 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:36:42.5985 [DEBUG] Play mode: False
+2017-08-28 09:45:53.3224 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:50:43.2349 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:50:43.3146 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:50:49.4572 [DEBUG] Play mode: False
+2017-08-28 09:51:14.2406 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 09:51:14.3148 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 09:51:20.3457 [DEBUG] Play mode: False
+2017-08-28 10:56:48.5194 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 10:56:48.6087 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 10:56:50.3283 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PI.Player.UpdateStates () (at Assets/Scripts/Player.cs:95)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 10:56:51.8642 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PI.Player.UpdateStates () (at Assets/Scripts/Player.cs:95)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 10:56:52.6066 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PI.Player.UpdateStates () (at Assets/Scripts/Player.cs:95)
+PI.Player.FixedUpdate () (at Assets/Scripts/Player.cs:50)
+
+2017-08-28 10:56:53.3386 [DEBUG] Play mode: False
+2017-08-28 10:56:55.8153 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 10:56:55.8494 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 10:56:58.5642 [DEBUG] Play mode: False
+2017-08-28 10:58:17.7161 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 10:58:17.8014 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 10:58:40.1580 [DEBUG] Play mode: False
+2017-08-28 11:00:25.1579 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:00:25.2457 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:00:37.6055 [DEBUG] Play mode: False
+2017-08-28 11:10:33.5350 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:10:33.6203 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:10:41.7396 [DEBUG] Play mode: False
+2017-08-28 11:11:04.5045 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:11:04.5894 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:11:39.9554 [DEBUG] Play mode: False
+2017-08-28 11:12:07.6684 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:12:07.7632 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:12:12.9097 [DEBUG] Play mode: False
+2017-08-28 11:12:52.6165 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:12:52.6927 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:13:06.3690 [DEBUG] Play mode: False
+2017-08-28 11:14:38.1621 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:14:38.2534 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:15:21.1121 [DEBUG] Play mode: False
+2017-08-28 11:22:19.0836 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:22:19.1197 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:22:32.7075 [DEBUG] Play mode: False
+2017-08-28 11:24:12.3987 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:24:12.4358 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:24:19.7378 [DEBUG] Play mode: False
+2017-08-28 11:30:08.9359 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:30:09.0151 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:30:13.0212 [DEBUG] Play mode: False
+2017-08-28 11:34:38.7740 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:34:38.8581 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:34:45.8704 [DEBUG] Play mode: False
+2017-08-28 11:34:56.7495 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:34:56.8217 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:34:59.6621 [DEBUG] Play mode: False
+2017-08-28 11:35:33.9867 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:35:34.0745 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:35:38.7341 [DEBUG] Play mode: False
+2017-08-28 11:38:18.1360 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:38:18.2297 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:38:25.7963 [DEBUG] Play mode: False
+2017-08-28 11:38:40.2274 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:38:40.3197 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:38:49.6704 [DEBUG] Play mode: False
+2017-08-28 11:39:46.8811 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:39:46.9323 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:39:49.4462 [DEBUG] Play mode: False
+2017-08-28 11:40:13.0986 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:40:13.1895 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:40:31.7491 [DEBUG] Play mode: False
+2017-08-28 11:40:52.6234 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:40:52.7117 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:41:29.7483 [DEBUG] Play mode: False
+2017-08-28 11:42:41.1369 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:42:41.2262 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:46:48.5158 [DEBUG] Play mode: False
+2017-08-28 11:47:54.7836 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 11:47:54.8232 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 11:48:48.1817 [DEBUG] Play mode: False
+2017-08-28 12:01:34.3829 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 12:01:43.5435 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 12:25:14.4665 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 12:34:25.7467 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 12:36:23.9470 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 13:02:50.0838 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 13:17:29.4801 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 13:20:58.3955 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:01:58.3233 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:03:35.2847 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:05:31.6118 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:05:41.6039 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:05:41.6681 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:05:44.7699 [DEBUG] Play mode: False
+2017-08-28 14:06:05.9846 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:06:06.0468 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:06:07.6287 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PI.Hook.OnAnimatorMove () (at Assets/Scripts/Hook.cs:21)
+
+2017-08-28 14:06:08.3806 [DEBUG] Play mode: False
+2017-08-28 14:06:36.2814 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:06:36.3485 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:06:38.1083 [DEBUG] Play mode: False
+2017-08-28 14:07:23.5850 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:07:26.9764 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:07:27.0310 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:07:28.7395 [DEBUG] Play mode: False
+2017-08-28 14:07:52.6337 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:07:52.7210 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:08:04.2951 [DEBUG] Play mode: False
+2017-08-28 14:08:34.7325 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:08:34.8247 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:08:39.1455 [DEBUG] Play mode: False
+2017-08-28 14:10:22.9985 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:10:23.0827 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:10:28.3405 [DEBUG] Play mode: False
+2017-08-28 14:14:06.6845 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:14:06.7642 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:14:09.8613 [DEBUG] Play mode: False
+2017-08-28 14:15:20.5320 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:15:27.5060 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:15:27.5862 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:15:29.7003 [DEBUG] Play mode: False
+2017-08-28 14:17:22.5907 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:17:22.6804 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:17:27.9421 [DEBUG] Play mode: False
+2017-08-28 14:22:37.3550 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:22:37.4457 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:22:39.0134 [DEBUG] Play mode: False
+2017-08-28 14:22:48.5458 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:22:48.6280 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:22:50.3534 [DEBUG] Play mode: False
+2017-08-28 14:23:10.8329 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:23:10.9116 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:23:12.6131 [DEBUG] Play mode: False
+2017-08-28 14:23:17.3976 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:23:17.4823 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:23:20.1083 [DEBUG] Play mode: False
+2017-08-28 14:23:48.6821 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 14:23:48.7588 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 14:23:50.4607 [DEBUG] Play mode: False
+2017-08-28 15:21:33.2743 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 15:23:36.4293 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 15:23:50.6515 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 15:23:50.7257 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 15:23:57.8752 [DEBUG] Play mode: False
+2017-08-28 17:03:44.8330 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:26:18.9225 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:28:56.4842 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:28:56.5781 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:29:00.0242 [DEBUG] Play mode: False
+2017-08-28 17:29:33.4114 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:29:33.4911 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:29:44.0997 [DEBUG] Play mode: False
+2017-08-28 17:29:56.3798 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:29:56.4656 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:29:59.9161 [DEBUG] Play mode: False
+2017-08-28 17:35:29.6224 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:35:29.7172 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:35:36.0090 [DEBUG] Play mode: False
+2017-08-28 17:35:40.6196 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:35:40.7063 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:35:44.8588 [DEBUG] Play mode: False
+2017-08-28 17:36:16.2964 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:36:16.3714 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:36:22.7506 [DEBUG] Play mode: False
+2017-08-28 17:42:22.6252 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:42:22.7229 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:42:30.3517 [DEBUG] Play mode: False
+2017-08-28 17:42:56.3138 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:42:56.3980 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:43:29.9226 [DEBUG] Play mode: False
+2017-08-28 17:43:44.7806 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 17:43:44.8651 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 17:44:06.4113 [DEBUG] Play mode: False
+2017-08-28 20:55:12.1287 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:02:39.1633 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:02:39.2908 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:03:01.1335 [DEBUG] Play mode: False
+2017-08-28 21:04:28.1070 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:04:28.2202 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:04:57.7134 [DEBUG] Play mode: False
+2017-08-28 21:05:38.3647 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:05:38.4375 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:05:59.0025 [DEBUG] Play mode: False
+2017-08-28 21:07:26.4938 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:07:26.6225 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:07:55.8393 [DEBUG] Play mode: False
+2017-08-28 21:11:16.3117 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:11:16.3838 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:11:41.4835 [DEBUG] Play mode: False
+2017-08-28 21:11:46.9790 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:11:47.0352 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:11:52.9230 [DEBUG] Play mode: False
+2017-08-28 21:14:08.1056 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:14:08.1815 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:14:19.7399 [DEBUG] Play mode: False
+2017-08-28 21:40:53.3139 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:41:30.2391 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:41:30.2719 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:41:35.0229 [DEBUG] Play mode: False
+2017-08-28 21:42:22.7383 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:42:49.3613 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:42:49.4164 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:42:57.8955 [DEBUG] Play mode: False
+2017-08-28 21:43:15.4420 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 21:43:15.4980 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 21:43:28.3391 [DEBUG] Play mode: False
+2017-08-28 22:46:46.0219 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 22:58:26.6282 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 22:59:39.0614 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 22:59:39.1105 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:00:29.1235 [DEBUG] Play mode: False
+2017-08-28 23:00:39.0123 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:03:28.6681 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:04:59.4699 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:25:51.3266 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:25:51.3802 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:25:53.6208 [DEBUG] Play mode: False
+2017-08-28 23:40:05.4951 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:40:05.5500 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:40:07.7760 [DEBUG] Play mode: False
+2017-08-28 23:46:40.1007 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:46:40.1548 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:46:54.1750 [DEBUG] Play mode: False
+2017-08-28 23:47:23.2251 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:47:23.2830 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:47:31.6214 [DEBUG] Play mode: False
+2017-08-28 23:48:59.2779 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:48:59.3355 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:49:11.2493 [DEBUG] Play mode: False
+2017-08-28 23:49:19.2773 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:49:19.3304 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:49:40.1234 [DEBUG] Play mode: False
+2017-08-28 23:51:30.9780 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:51:31.0362 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:51:33.0793 [DEBUG] Play mode: False
+2017-08-28 23:51:48.8035 [DEBUG] Scene Fusion version 1.5.2
+2017-08-28 23:51:48.8607 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-28 23:51:58.5666 [DEBUG] Play mode: False

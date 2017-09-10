@@ -1,0 +1,1175 @@
+2017-08-25 19:24:29.4503 [DEBUG] Authenticating with server...
+2017-08-25 19:24:29.6726 [DEBUG] Connected to room. (38755:SceneFusion:SceneFusion)
+2017-08-25 19:24:29.6760 [INFO] Connected to server.
+2017-08-25 19:24:29.6760 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-08-25 19:24:29.6760 [DEBUG] Unity Version : 2017.1.0f3
+2017-08-25 19:24:29.6760 [DEBUG] Pro License : False
+2017-08-25 19:24:29.6760 [DEBUG] Platform : WindowsEditor
+2017-08-25 19:24:29.6760 [DEBUG] Build Target : StandaloneWindows64
+2017-08-25 19:24:29.6760 [DEBUG] Scene Fusion version : 1.5.2
+2017-08-25 19:24:29.6765 [DEBUG] User : 
+2017-08-25 19:24:29.7516 [DEBUG] Tier: Beta, Permissions: FFFFFFFF
+2017-08-25 19:24:29.7516 [DEBUG] User Permissions: FFFFFFFF
+2017-08-25 19:24:29.7526 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-08-25 19:24:29.7526 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-08-25 19:24:29.7531 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-08-25 19:24:29.7531 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-08-25 19:24:29.7531 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-08-25 19:24:29.8624 [DEBUG] Uploading scene 'WIP'
+2017-08-25 19:24:29.8969 [ERROR] InvalidCastException: Cannot cast from source type to destination type.
+KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter)
+UnityEngine.Debug:LogException(Exception)
+KS.Reactor.ksLog:LogToUnity(Level, String, String, Exception, Object)
+KS.Reactor.ksLog:HandleLog(String, String, String, Exception, Level, Object)
+KS.Reactor.ksLog:Log(SSProperty, String, Exception, Level, Object)
+KS.Reactor.ksLog:Error(SSProperty, String, Exception)
+KS.SceneFusion.Client.Editor.SSProperty:GetValue(Getter`1)
+KS.SceneFusion.Client.Editor.SSProperty:get_Int()
+KS.SceneFusion.Client.Editor.<>c:<RegisterProperty>b__5_36(SSProperty)
+KS.SceneFusion.Client.Editor.SyncComponentProperty`1:PullValue()
+KS.SceneFusion.Client.Editor.PropertyRegistrar:Register(RegisterParams, SyncComponentProperty`1)
+KS.SceneFusion.Client.Editor.PropertyRegistrar:Register(SSProperty, RegisterParams, Getter, Setter, ToMultiType, FromMultiType, Comparer)
+KS.SceneFusion.Client.Editor.PropertyRegistrar:RegisterProperty(SSProperty, RegisterParams)
+KS.SceneFusion.Client.Editor.ComponentManager:SerializeProperties(PropertyIterator, List`1, SyncComponent, Int32)
+KS.SceneFusion.Client.Editor.ComponentManager:SerializeProperties(PropertyIterator, SyncComponent)
+KS.SceneFusion.Client.Editor.ComponentManager:SerializeProperties(PropertyIterator, List`1, SyncComponent, Int32)
+KS.SceneFusion.Client.Editor.ComponentManager:SerializeProperties(PropertyIterator, SyncComponent)
+KS.SceneFusion.Client.Editor.ComponentManager:SerializeComponent(Component, Boolean)
+KS.SceneFusion.Client.Editor.ComponentManager:Serialize(ReferenceId)
+KS.SceneFusion.Client.Editor.<EncodeObjectPropertiesCoroutine>d__90:MoveNext()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.ksCoroutine:Step()
+KS.Reactor.<>c:<UpdateCoroutines>b__5_0(ksCoroutine)
+KS.Reactor.ksCoroutineManager:ForEach(CoroutineCallback)
+KS.Reactor.ksCoroutineManager:UpdateCoroutines()
+KS.SceneFusion.Client.Editor.ObjectManager:Update()
+KS.SceneFusion.Client.Editor.CoEditService:Update()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions()
+
+2017-08-25 19:24:29.8969 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:24:29.9035 [DEBUG] Spawn request. (Objects: 85)
+2017-08-25 19:24:29.9060 [DEBUG] Entity RPC. (Id: 1, Size: 10383, Reporting Threshold: 10000)
+2017-08-25 19:28:48.0561 [DEBUG] Spawn request. (Objects: 1)
+2017-08-25 19:29:30.1073 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-08-25 19:29:30.1073 [DEBUG] Disconnecting from room (38755:SceneFusion:SceneFusion)
+2017-08-25 19:29:30.1153 [INFO] Disconnected from server.
+2017-08-25 19:29:30.1153 [DEBUG] Disconnect. (Duration: 300)
+2017-08-25 19:29:32.0840 [DEBUG] Scene Fusion version 1.5.2
+2017-08-25 19:29:32.1386 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-25 19:29:32.4385 [DEBUG] Connecting to room (38755:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1026
+2017-08-25 19:29:32.5172 [DEBUG] Host connection. (Session: 38755)
+2017-08-25 19:29:32.6611 [DEBUG] Authenticating with server...
+2017-08-25 19:29:32.7611 [DEBUG] Connected to room. (38755:SceneFusion:SceneFusion)
+2017-08-25 19:29:32.7731 [INFO] Connected to server.
+2017-08-25 19:29:32.7731 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-08-25 19:29:32.7731 [DEBUG] Unity Version : 2017.1.0f3
+2017-08-25 19:29:32.7736 [DEBUG] Pro License : False
+2017-08-25 19:29:32.7736 [DEBUG] Platform : WindowsEditor
+2017-08-25 19:29:32.7736 [DEBUG] Build Target : StandaloneWindows64
+2017-08-25 19:29:32.7736 [DEBUG] Scene Fusion version : 1.5.2
+2017-08-25 19:29:32.7736 [DEBUG] User : 
+2017-08-25 19:29:32.9366 [DEBUG] Tier: Beta, Permissions: FFFFFFFF
+2017-08-25 19:29:32.9366 [DEBUG] User Permissions: FFFFFFFF
+2017-08-25 19:29:32.9762 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-08-25 19:29:32.9762 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-08-25 19:29:32.9767 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-08-25 19:29:32.9767 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-08-25 19:29:32.9767 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-08-25 19:29:41.2204 [DEBUG] Play mode: False
+2017-08-25 19:29:41.2845 [ERROR] Error setting value: Object type System.Int32 cannot be converted to target type: UnityEngine.LayerMask
+Parameter name: val
+  at System.Reflection.MonoField.SetValue (System.Object obj, System.Object val, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Globalization.CultureInfo culture) [0x000a0] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoField.cs:148 
+  at System.Reflection.FieldInfo.SetValue (System.Object obj, System.Object value) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/FieldInfo.cs:150 
+  at KS.Unity.Editor.ReflectionObject.SetValue (System.Object instance, System.Object value) [0x00000] in <filename unknown>:0 
+2017-08-25 19:30:10.7436 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-08-25 19:30:10.7441 [DEBUG] Disconnecting from room (38755:SceneFusion:SceneFusion)
+2017-08-25 19:30:10.7547 [INFO] Disconnected from server.
+2017-08-25 19:30:10.7547 [DEBUG] Disconnect. (Duration: -1093)
+2017-08-25 19:30:12.7500 [DEBUG] Scene Fusion version 1.5.2
+2017-08-25 19:30:12.8072 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-25 19:30:13.1005 [DEBUG] Connecting to room (38755:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1026
+2017-08-25 19:30:13.1065 [DEBUG] Host connection. (Session: 38755)
+2017-08-25 19:30:13.2410 [DEBUG] Authenticating with server...
+2017-08-25 19:30:13.3427 [DEBUG] Connected to room. (38755:SceneFusion:SceneFusion)
+2017-08-25 19:30:13.3598 [INFO] Connected to server.
+2017-08-25 19:30:13.3603 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-08-25 19:30:13.3603 [DEBUG] Unity Version : 2017.1.0f3
+2017-08-25 19:30:13.3603 [DEBUG] Pro License : False
+2017-08-25 19:30:13.3608 [DEBUG] Platform : WindowsEditor
+2017-08-25 19:30:13.3608 [DEBUG] Build Target : StandaloneWindows64
+2017-08-25 19:30:13.3608 [DEBUG] Scene Fusion version : 1.5.2
+2017-08-25 19:30:13.3608 [DEBUG] User : 
+2017-08-25 19:30:13.5029 [DEBUG] Tier: Beta, Permissions: FFFFFFFF
+2017-08-25 19:30:13.5029 [DEBUG] User Permissions: FFFFFFFF
+2017-08-25 19:30:13.5420 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-08-25 19:30:13.5420 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-08-25 19:30:13.5420 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-08-25 19:30:13.5420 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-08-25 19:30:13.5420 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-08-25 19:30:20.2548 [DEBUG] Play mode: False
+2017-08-25 19:30:20.3060 [ERROR] Error setting value: Object type System.Int32 cannot be converted to target type: UnityEngine.LayerMask
+Parameter name: val
+  at System.Reflection.MonoField.SetValue (System.Object obj, System.Object val, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Globalization.CultureInfo culture) [0x000a0] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoField.cs:148 
+  at System.Reflection.FieldInfo.SetValue (System.Object obj, System.Object value) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/FieldInfo.cs:150 
+  at KS.Unity.Editor.ReflectionObject.SetValue (System.Object instance, System.Object value) [0x00000] in <filename unknown>:0 
+2017-08-25 19:30:38.8882 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-08-25 19:30:38.8887 [DEBUG] Disconnecting from room (38755:SceneFusion:SceneFusion)
+2017-08-25 19:30:38.8922 [INFO] Disconnected from server.
+2017-08-25 19:30:38.8922 [DEBUG] Disconnect. (Duration: -1104)
+2017-08-25 19:30:40.7578 [DEBUG] Scene Fusion version 1.5.2
+2017-08-25 19:30:40.8094 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-25 19:30:41.1043 [DEBUG] Connecting to room (38755:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1026
+2017-08-25 19:30:41.1103 [DEBUG] Host connection. (Session: 38755)
+2017-08-25 19:30:41.2487 [DEBUG] Authenticating with server...
+2017-08-25 19:30:41.3487 [DEBUG] Connected to room. (38755:SceneFusion:SceneFusion)
+2017-08-25 19:30:41.3597 [INFO] Connected to server.
+2017-08-25 19:30:41.3597 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-08-25 19:30:41.3602 [DEBUG] Unity Version : 2017.1.0f3
+2017-08-25 19:30:41.3602 [DEBUG] Pro License : False
+2017-08-25 19:30:41.3602 [DEBUG] Platform : WindowsEditor
+2017-08-25 19:30:41.3602 [DEBUG] Build Target : StandaloneWindows64
+2017-08-25 19:30:41.3602 [DEBUG] Scene Fusion version : 1.5.2
+2017-08-25 19:30:41.3602 [DEBUG] User : 
+2017-08-25 19:30:41.5579 [DEBUG] Tier: Beta, Permissions: FFFFFFFF
+2017-08-25 19:30:41.5579 [DEBUG] User Permissions: FFFFFFFF
+2017-08-25 19:30:41.5955 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-08-25 19:30:41.5955 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-08-25 19:30:41.5955 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-08-25 19:30:41.5955 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-08-25 19:30:41.5955 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-08-25 19:31:21.2773 [DEBUG] Play mode: False
+2017-08-25 19:31:21.3204 [ERROR] Error setting value: Object type System.Int32 cannot be converted to target type: UnityEngine.LayerMask
+Parameter name: val
+  at System.Reflection.MonoField.SetValue (System.Object obj, System.Object val, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Globalization.CultureInfo culture) [0x000a0] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoField.cs:148 
+  at System.Reflection.FieldInfo.SetValue (System.Object obj, System.Object value) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/FieldInfo.cs:150 
+  at KS.Unity.Editor.ReflectionObject.SetValue (System.Object instance, System.Object value) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:26.9555 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:26.9976 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.0277 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.0648 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.0944 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.1906 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.3128 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.4327 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.5266 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:27.5596 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:49.8469 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:49.8955 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:49.9246 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:49.9301 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:50.0315 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:50.1152 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:50.1904 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:50.2866 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:50.3799 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:50.4140 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:40:50.4380 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:41.5168 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:41.5444 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:41.6416 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:41.7663 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:41.8917 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.0147 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.1387 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.2571 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.2676 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.3478 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.3693 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.3979 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.4496 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.4806 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:42.5072 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.1371 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.1777 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.3083 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.4382 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.5735 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.6783 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.7204 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.7615 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.7931 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.8287 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.8613 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.8938 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.9264 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.9635 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:46.9926 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.0858 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.1921 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.2864 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.4151 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.5383 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.5473 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.6520 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.6595 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.7330 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.7395 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:47.7836 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.2675 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.3111 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.3451 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.3762 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.4589 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.5522 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.6454 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.7426 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.8467 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.9491 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:58.9982 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:59.0288 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:59.0624 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:59.1165 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:59.1401 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:59.1476 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:59.1770 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:45:59.1820 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:02.5548 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:02.5956 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:02.6902 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:02.7868 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:02.9073 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:03.0076 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:03.1014 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:03.1059 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:03.2092 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:03.3004 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:03.3285 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:30.4006 [DEBUG] Spawn request. (Objects: 1)
+2017-08-25 19:46:30.6613 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:30.7216 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:30.8312 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:30.9626 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:31.1105 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:31.2218 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:31.3316 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:31.4574 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:31.5637 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:31.6936 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:31.7938 [DEBUG] Entity RPC. (Id: 20, Size: 52685, Reporting Threshold: 10000)
+2017-08-25 19:46:41.8701 [DEBUG] Spawn request. (Objects: 1)
+2017-08-25 19:46:42.0470 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:42.1624 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:42.2767 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:42.3864 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:42.5108 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:42.6281 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:42.7529 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:42.8672 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:43.0026 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:43.1164 [DEBUG] Entity RPC. (Id: 20, Size: 100009, Reporting Threshold: 10000)
+2017-08-25 19:46:43.2006 [DEBUG] Entity RPC. (Id: 20, Size: 52685, Reporting Threshold: 10000)
+2017-08-25 19:46:49.6092 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:46:52.6779 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:48:50.4112 [DEBUG] Upload terrain diff. (Type: 1, Size: 9, Entity: 91)
+2017-08-25 19:48:50.4112 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:50.5149 [DEBUG] Upload terrain diff. (Type: 1, Size: 319, Entity: 91)
+2017-08-25 19:48:50.5149 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:50.6523 [DEBUG] Upload terrain diff. (Type: 1, Size: 316, Entity: 91)
+2017-08-25 19:48:50.6523 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:50.7566 [DEBUG] Upload terrain diff. (Type: 1, Size: 319, Entity: 91)
+2017-08-25 19:48:50.7566 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:50.8704 [DEBUG] Upload terrain diff. (Type: 1, Size: 319, Entity: 91)
+2017-08-25 19:48:50.8709 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:50.9922 [DEBUG] Upload terrain diff. (Type: 1, Size: 319, Entity: 91)
+2017-08-25 19:48:50.9922 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:51.1065 [DEBUG] Upload terrain diff. (Type: 1, Size: 319, Entity: 91)
+2017-08-25 19:48:51.1070 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:51.4028 [DEBUG] Upload terrain diff. (Type: 1, Size: 21, Entity: 91)
+2017-08-25 19:48:51.4028 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:51.5191 [DEBUG] Upload terrain diff. (Type: 1, Size: 43, Entity: 91)
+2017-08-25 19:48:51.5196 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:51.6329 [DEBUG] Upload terrain diff. (Type: 1, Size: 12, Entity: 91)
+2017-08-25 19:48:51.6329 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:51.7593 [DEBUG] Upload terrain diff. (Type: 1, Size: 11, Entity: 91)
+2017-08-25 19:48:51.7593 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:51.9377 [DEBUG] Upload terrain diff. (Type: 1, Size: 98, Entity: 91)
+2017-08-25 19:48:51.9382 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:52.2601 [DEBUG] Upload terrain diff. (Type: 1, Size: 108, Entity: 91)
+2017-08-25 19:48:52.2601 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:52.3749 [DEBUG] Upload terrain diff. (Type: 1, Size: 130, Entity: 91)
+2017-08-25 19:48:52.3749 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:52.4962 [DEBUG] Upload terrain diff. (Type: 1, Size: 133, Entity: 91)
+2017-08-25 19:48:52.4962 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:52.6105 [DEBUG] Upload terrain diff. (Type: 1, Size: 132, Entity: 91)
+2017-08-25 19:48:52.6105 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:53.0407 [DEBUG] Upload terrain diff. (Type: 1, Size: 53, Entity: 91)
+2017-08-25 19:48:53.0407 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:53.1911 [DEBUG] Upload terrain diff. (Type: 1, Size: 342, Entity: 91)
+2017-08-25 19:48:53.1911 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:53.3089 [DEBUG] Upload terrain diff. (Type: 1, Size: 81, Entity: 91)
+2017-08-25 19:48:53.3089 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:53.4633 [DEBUG] Upload terrain diff. (Type: 1, Size: 86, Entity: 91)
+2017-08-25 19:48:53.4638 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:53.6077 [DEBUG] Upload terrain diff. (Type: 1, Size: 124, Entity: 91)
+2017-08-25 19:48:53.6077 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:53.6929 [DEBUG] Upload terrain diff. (Type: 1, Size: 161, Entity: 91)
+2017-08-25 19:48:53.6929 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:54.4279 [DEBUG] Upload terrain diff. (Type: 1, Size: 246, Entity: 91)
+2017-08-25 19:48:54.4284 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:54.5412 [DEBUG] Upload terrain diff. (Type: 1, Size: 342, Entity: 91)
+2017-08-25 19:48:54.5412 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:54.6540 [DEBUG] Upload terrain diff. (Type: 1, Size: 326, Entity: 91)
+2017-08-25 19:48:54.6545 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:55.3398 [DEBUG] Upload terrain diff. (Type: 1, Size: 37, Entity: 91)
+2017-08-25 19:48:55.3398 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:55.6837 [DEBUG] Upload terrain diff. (Type: 1, Size: 10, Entity: 91)
+2017-08-25 19:48:55.6842 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:56.0517 [DEBUG] Upload terrain diff. (Type: 1, Size: 45, Entity: 91)
+2017-08-25 19:48:56.0517 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:56.1324 [DEBUG] Upload terrain diff. (Type: 1, Size: 32, Entity: 91)
+2017-08-25 19:48:56.1324 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:56.2487 [DEBUG] Upload terrain diff. (Type: 1, Size: 32, Entity: 91)
+2017-08-25 19:48:56.2487 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:56.3650 [DEBUG] Upload terrain diff. (Type: 1, Size: 29, Entity: 91)
+2017-08-25 19:48:56.3650 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:56.4893 [DEBUG] Upload terrain diff. (Type: 1, Size: 32, Entity: 91)
+2017-08-25 19:48:56.4899 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:56.6202 [DEBUG] Upload terrain diff. (Type: 1, Size: 79, Entity: 91)
+2017-08-25 19:48:56.6202 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:57.0398 [DEBUG] Upload terrain diff. (Type: 1, Size: 220, Entity: 91)
+2017-08-25 19:48:57.0403 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:57.2594 [DEBUG] Upload terrain diff. (Type: 1, Size: 188, Entity: 91)
+2017-08-25 19:48:57.2594 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:57.3732 [DEBUG] Upload terrain diff. (Type: 1, Size: 142, Entity: 91)
+2017-08-25 19:48:57.3732 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:59.3830 [DEBUG] Upload terrain diff. (Type: 1, Size: 400, Entity: 91)
+2017-08-25 19:48:59.3830 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:59.4963 [DEBUG] Upload terrain diff. (Type: 1, Size: 319, Entity: 91)
+2017-08-25 19:48:59.4968 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:59.5981 [DEBUG] Upload terrain diff. (Type: 1, Size: 319, Entity: 91)
+2017-08-25 19:48:59.5986 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:59.7977 [DEBUG] Upload terrain diff. (Type: 1, Size: 322, Entity: 91)
+2017-08-25 19:48:59.7977 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:48:59.9230 [DEBUG] Upload terrain diff. (Type: 1, Size: 10, Entity: 91)
+2017-08-25 19:48:59.9230 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:00.0408 [DEBUG] Upload terrain diff. (Type: 1, Size: 18, Entity: 91)
+2017-08-25 19:49:00.0408 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:04.6253 [DEBUG] Upload terrain diff. (Type: 1, Size: 17, Entity: 91)
+2017-08-25 19:49:04.6253 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:04.7361 [DEBUG] Upload terrain diff. (Type: 1, Size: 15, Entity: 91)
+2017-08-25 19:49:04.7361 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:04.8835 [DEBUG] Upload terrain diff. (Type: 1, Size: 28, Entity: 91)
+2017-08-25 19:49:04.8835 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.0083 [DEBUG] Upload terrain diff. (Type: 1, Size: 34, Entity: 91)
+2017-08-25 19:49:05.0083 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.1237 [DEBUG] Upload terrain diff. (Type: 1, Size: 65, Entity: 91)
+2017-08-25 19:49:05.1237 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.2408 [DEBUG] Upload terrain diff. (Type: 1, Size: 12, Entity: 91)
+2017-08-25 19:49:05.2408 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.3556 [DEBUG] Upload terrain diff. (Type: 1, Size: 12, Entity: 91)
+2017-08-25 19:49:05.3556 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.4755 [DEBUG] Upload terrain diff. (Type: 1, Size: 21, Entity: 91)
+2017-08-25 19:49:05.4755 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.5857 [DEBUG] Upload terrain diff. (Type: 1, Size: 118, Entity: 91)
+2017-08-25 19:49:05.5862 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.7398 [DEBUG] Upload terrain diff. (Type: 1, Size: 15, Entity: 91)
+2017-08-25 19:49:05.7398 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.8513 [DEBUG] Upload terrain diff. (Type: 1, Size: 25, Entity: 91)
+2017-08-25 19:49:05.8513 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:05.9671 [DEBUG] Upload terrain diff. (Type: 1, Size: 192, Entity: 91)
+2017-08-25 19:49:05.9676 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.0799 [DEBUG] Upload terrain diff. (Type: 1, Size: 205, Entity: 91)
+2017-08-25 19:49:06.0799 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.2488 [DEBUG] Upload terrain diff. (Type: 1, Size: 223, Entity: 91)
+2017-08-25 19:49:06.2488 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.3563 [DEBUG] Upload terrain diff. (Type: 1, Size: 11, Entity: 91)
+2017-08-25 19:49:06.3568 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.4773 [DEBUG] Upload terrain diff. (Type: 1, Size: 264, Entity: 91)
+2017-08-25 19:49:06.4773 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.6083 [DEBUG] Upload terrain diff. (Type: 1, Size: 315, Entity: 91)
+2017-08-25 19:49:06.6083 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.7257 [DEBUG] Upload terrain diff. (Type: 1, Size: 312, Entity: 91)
+2017-08-25 19:49:06.7257 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.7262 [DEBUG] Upload terrain diff. (Type: 1, Size: 309, Entity: 91)
+2017-08-25 19:49:06.7262 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.8414 [DEBUG] Upload terrain diff. (Type: 1, Size: 360, Entity: 91)
+2017-08-25 19:49:06.8414 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:06.9933 [DEBUG] Upload terrain diff. (Type: 1, Size: 180, Entity: 91)
+2017-08-25 19:49:06.9933 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:08.1735 [DEBUG] Upload terrain diff. (Type: 1, Size: 682, Entity: 91)
+2017-08-25 19:49:08.1740 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:08.2923 [DEBUG] Upload terrain diff. (Type: 1, Size: 138, Entity: 91)
+2017-08-25 19:49:08.2923 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:08.8220 [DEBUG] Upload terrain diff. (Type: 1, Size: 170, Entity: 91)
+2017-08-25 19:49:08.8220 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:08.9380 [DEBUG] Upload terrain diff. (Type: 1, Size: 107, Entity: 91)
+2017-08-25 19:49:08.9380 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:09.0536 [DEBUG] Upload terrain diff. (Type: 1, Size: 72, Entity: 91)
+2017-08-25 19:49:09.0536 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.0966 [DEBUG] Upload terrain diff. (Type: 1, Size: 32, Entity: 91)
+2017-08-25 19:49:29.0966 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.2099 [DEBUG] Upload terrain diff. (Type: 1, Size: 146, Entity: 91)
+2017-08-25 19:49:29.2099 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.3252 [DEBUG] Upload terrain diff. (Type: 1, Size: 164, Entity: 91)
+2017-08-25 19:49:29.3252 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.4404 [DEBUG] Upload terrain diff. (Type: 1, Size: 170, Entity: 91)
+2017-08-25 19:49:29.4404 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.5594 [DEBUG] Upload terrain diff. (Type: 1, Size: 171, Entity: 91)
+2017-08-25 19:49:29.5599 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.6727 [DEBUG] Upload terrain diff. (Type: 1, Size: 174, Entity: 91)
+2017-08-25 19:49:29.6727 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.8116 [DEBUG] Upload terrain diff. (Type: 1, Size: 215, Entity: 91)
+2017-08-25 19:49:29.8116 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:29.9227 [DEBUG] Upload terrain diff. (Type: 1, Size: 11, Entity: 91)
+2017-08-25 19:49:29.9227 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:30.0303 [DEBUG] Upload terrain diff. (Type: 1, Size: 33, Entity: 91)
+2017-08-25 19:49:30.0303 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:30.1299 [DEBUG] Upload terrain diff. (Type: 1, Size: 155, Entity: 91)
+2017-08-25 19:49:30.1299 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:30.4675 [DEBUG] Upload terrain diff. (Type: 1, Size: 373, Entity: 91)
+2017-08-25 19:49:30.4680 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:32.4241 [DEBUG] Upload terrain diff. (Type: 1, Size: 95, Entity: 91)
+2017-08-25 19:49:32.4246 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:32.5362 [DEBUG] Upload terrain diff. (Type: 1, Size: 63, Entity: 91)
+2017-08-25 19:49:32.5362 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:48.8995 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:48.9020 [DEBUG] Upload terrain diff. (Type: 1, Size: 1694, Entity: 91)
+2017-08-25 19:49:48.9020 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:49:49.5664 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:49.6612 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:49.7518 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:49.9467 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:50.1033 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:50.2226 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:56.6120 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:56.7087 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:56.7905 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:56.8727 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:56.9569 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:57.0391 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:57.2442 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:57.4354 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:57.5366 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:57.6269 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:49:57.7111 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:51:25.7061 [DEBUG] Upload terrain diff. (Type: 1, Size: 19152, Entity: 91)
+2017-08-25 19:51:25.7092 [DEBUG] Entity RPC. (Id: 21, Size: 19163, Reporting Threshold: 10000)
+2017-08-25 19:51:25.7092 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:25.8470 [DEBUG] Upload terrain diff. (Type: 1, Size: 8689, Entity: 91)
+2017-08-25 19:51:25.8485 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:26.8665 [ERROR] Error getting 'walkableRegions.Array.data[0].terrainMask' property value: Cannot cast from source type to destination type.
+  at KS.SceneFusion.Client.Editor.SSProperty.GetValue[Int32] (KS.SceneFusion.Client.Editor.Getter`1 getter) [0x00000] in <filename unknown>:0 
+2017-08-25 19:51:26.8695 [DEBUG] Upload terrain diff. (Type: 1, Size: 485, Entity: 91)
+2017-08-25 19:51:26.8700 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:30.6260 [DEBUG] Upload terrain diff. (Type: 1, Size: 1525, Entity: 91)
+2017-08-25 19:51:30.6265 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:30.7402 [DEBUG] Upload terrain diff. (Type: 1, Size: 3639, Entity: 91)
+2017-08-25 19:51:30.7407 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:30.8568 [DEBUG] Upload terrain diff. (Type: 1, Size: 1246, Entity: 91)
+2017-08-25 19:51:30.8573 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:31.8765 [DEBUG] Upload terrain diff. (Type: 1, Size: 1509, Entity: 91)
+2017-08-25 19:51:31.8770 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:31.9960 [DEBUG] Upload terrain diff. (Type: 1, Size: 4043, Entity: 91)
+2017-08-25 19:51:31.9965 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:32.1366 [DEBUG] Upload terrain diff. (Type: 1, Size: 909, Entity: 91)
+2017-08-25 19:51:32.1371 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:32.5248 [DEBUG] Upload terrain diff. (Type: 1, Size: 2790, Entity: 91)
+2017-08-25 19:51:32.5253 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:32.6406 [DEBUG] Upload terrain diff. (Type: 1, Size: 744, Entity: 91)
+2017-08-25 19:51:32.6406 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:32.9750 [DEBUG] Upload terrain diff. (Type: 1, Size: 1911, Entity: 91)
+2017-08-25 19:51:32.9755 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:33.0972 [DEBUG] Upload terrain diff. (Type: 1, Size: 1313, Entity: 91)
+2017-08-25 19:51:33.0972 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:33.3057 [DEBUG] Upload terrain diff. (Type: 1, Size: 414, Entity: 91)
+2017-08-25 19:51:33.3057 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:33.4226 [DEBUG] Upload terrain diff. (Type: 1, Size: 2376, Entity: 91)
+2017-08-25 19:51:33.4226 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:33.5336 [DEBUG] Upload terrain diff. (Type: 1, Size: 981, Entity: 91)
+2017-08-25 19:51:33.5336 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:42.2744 [DEBUG] Upload terrain diff. (Type: 1, Size: 1868, Entity: 91)
+2017-08-25 19:51:42.2749 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:42.3895 [DEBUG] Upload terrain diff. (Type: 1, Size: 1466, Entity: 91)
+2017-08-25 19:51:42.3900 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:42.8369 [DEBUG] Upload terrain diff. (Type: 1, Size: 1494, Entity: 91)
+2017-08-25 19:51:42.8374 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:42.9525 [DEBUG] Upload terrain diff. (Type: 1, Size: 2291, Entity: 91)
+2017-08-25 19:51:42.9530 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:43.0668 [DEBUG] Upload terrain diff. (Type: 1, Size: 1064, Entity: 91)
+2017-08-25 19:51:43.0673 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:43.3969 [DEBUG] Upload terrain diff. (Type: 1, Size: 254, Entity: 91)
+2017-08-25 19:51:43.3974 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:43.5414 [DEBUG] Upload terrain diff. (Type: 1, Size: 1621, Entity: 91)
+2017-08-25 19:51:43.5419 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:43.6595 [DEBUG] Upload terrain diff. (Type: 1, Size: 979, Entity: 91)
+2017-08-25 19:51:43.6595 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:43.7676 [DEBUG] Upload terrain diff. (Type: 1, Size: 901, Entity: 91)
+2017-08-25 19:51:43.7676 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:44.0707 [DEBUG] Upload terrain diff. (Type: 1, Size: 437, Entity: 91)
+2017-08-25 19:51:44.0707 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:44.1855 [DEBUG] Upload terrain diff. (Type: 1, Size: 901, Entity: 91)
+2017-08-25 19:51:44.1860 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:44.2973 [DEBUG] Upload terrain diff. (Type: 1, Size: 1468, Entity: 91)
+2017-08-25 19:51:44.2978 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:44.4131 [DEBUG] Upload terrain diff. (Type: 1, Size: 1427, Entity: 91)
+2017-08-25 19:51:44.4136 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:44.5459 [DEBUG] Upload terrain diff. (Type: 1, Size: 807, Entity: 91)
+2017-08-25 19:51:44.5459 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:44.8366 [DEBUG] Upload terrain diff. (Type: 1, Size: 692, Entity: 91)
+2017-08-25 19:51:44.8371 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:44.9640 [DEBUG] Upload terrain diff. (Type: 1, Size: 780, Entity: 91)
+2017-08-25 19:51:44.9645 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:45.0805 [DEBUG] Upload terrain diff. (Type: 1, Size: 1827, Entity: 91)
+2017-08-25 19:51:45.0810 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:45.1899 [DEBUG] Upload terrain diff. (Type: 1, Size: 907, Entity: 91)
+2017-08-25 19:51:45.1899 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:45.6229 [DEBUG] Upload terrain diff. (Type: 1, Size: 512, Entity: 91)
+2017-08-25 19:51:45.6234 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:45.7384 [DEBUG] Upload terrain diff. (Type: 1, Size: 2330, Entity: 91)
+2017-08-25 19:51:45.7389 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:45.8615 [DEBUG] Upload terrain diff. (Type: 1, Size: 962, Entity: 91)
+2017-08-25 19:51:45.8615 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:47.2228 [DEBUG] Upload terrain diff. (Type: 1, Size: 1279, Entity: 91)
+2017-08-25 19:51:47.2228 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:47.3437 [DEBUG] Upload terrain diff. (Type: 1, Size: 3219, Entity: 91)
+2017-08-25 19:51:47.3447 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:48.1149 [DEBUG] Upload terrain diff. (Type: 1, Size: 623, Entity: 91)
+2017-08-25 19:51:48.1149 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:48.2378 [DEBUG] Upload terrain diff. (Type: 1, Size: 3576, Entity: 91)
+2017-08-25 19:51:48.2383 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:48.6563 [DEBUG] Upload terrain diff. (Type: 1, Size: 1006, Entity: 91)
+2017-08-25 19:51:48.6568 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:48.7808 [DEBUG] Upload terrain diff. (Type: 1, Size: 10296, Entity: 91)
+2017-08-25 19:51:48.7828 [DEBUG] Entity RPC. (Id: 21, Size: 10307, Reporting Threshold: 10000)
+2017-08-25 19:51:48.7828 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:49.3373 [DEBUG] Upload terrain diff. (Type: 1, Size: 606, Entity: 91)
+2017-08-25 19:51:49.3378 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:49.4680 [DEBUG] Upload terrain diff. (Type: 1, Size: 4760, Entity: 91)
+2017-08-25 19:51:49.4690 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:49.5850 [DEBUG] Upload terrain diff. (Type: 1, Size: 1921, Entity: 91)
+2017-08-25 19:51:49.5855 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:49.8993 [DEBUG] Upload terrain diff. (Type: 1, Size: 409, Entity: 91)
+2017-08-25 19:51:49.8993 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:50.0076 [DEBUG] Upload terrain diff. (Type: 1, Size: 2913, Entity: 91)
+2017-08-25 19:51:50.0081 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:50.1154 [DEBUG] Upload terrain diff. (Type: 1, Size: 2394, Entity: 91)
+2017-08-25 19:51:50.1159 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:51.1402 [DEBUG] Upload terrain diff. (Type: 1, Size: 679, Entity: 91)
+2017-08-25 19:51:51.1407 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:51.2480 [DEBUG] Upload terrain diff. (Type: 1, Size: 1716, Entity: 91)
+2017-08-25 19:51:51.2485 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:51.5970 [DEBUG] Upload terrain diff. (Type: 1, Size: 281, Entity: 91)
+2017-08-25 19:51:51.5976 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:51.7187 [DEBUG] Upload terrain diff. (Type: 1, Size: 5804, Entity: 91)
+2017-08-25 19:51:51.7202 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:52.1435 [DEBUG] Upload terrain diff. (Type: 1, Size: 307, Entity: 91)
+2017-08-25 19:51:52.1435 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:52.2568 [DEBUG] Upload terrain diff. (Type: 1, Size: 3725, Entity: 91)
+2017-08-25 19:51:52.2573 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:52.7022 [DEBUG] Upload terrain diff. (Type: 1, Size: 397, Entity: 91)
+2017-08-25 19:51:52.7022 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:52.8204 [DEBUG] Upload terrain diff. (Type: 1, Size: 2315, Entity: 91)
+2017-08-25 19:51:52.8209 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:54.3973 [DEBUG] Upload terrain diff. (Type: 1, Size: 15, Entity: 91)
+2017-08-25 19:51:54.3973 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:54.5113 [DEBUG] Upload terrain diff. (Type: 1, Size: 829, Entity: 91)
+2017-08-25 19:51:54.5113 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:54.8262 [DEBUG] Upload terrain diff. (Type: 1, Size: 581, Entity: 91)
+2017-08-25 19:51:54.8267 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:54.9390 [DEBUG] Upload terrain diff. (Type: 1, Size: 895, Entity: 91)
+2017-08-25 19:51:54.9390 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:55.2594 [DEBUG] Upload terrain diff. (Type: 1, Size: 1301, Entity: 91)
+2017-08-25 19:51:55.2599 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:55.3960 [DEBUG] Upload terrain diff. (Type: 1, Size: 1017, Entity: 91)
+2017-08-25 19:51:55.3960 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:55.6927 [DEBUG] Upload terrain diff. (Type: 1, Size: 1056, Entity: 91)
+2017-08-25 19:51:55.6932 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:55.8290 [DEBUG] Upload terrain diff. (Type: 1, Size: 615, Entity: 91)
+2017-08-25 19:51:55.8290 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:56.0336 [DEBUG] Upload terrain diff. (Type: 1, Size: 413, Entity: 91)
+2017-08-25 19:51:56.0336 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:56.1496 [DEBUG] Upload terrain diff. (Type: 1, Size: 1617, Entity: 91)
+2017-08-25 19:51:56.1496 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:56.2644 [DEBUG] Upload terrain diff. (Type: 1, Size: 829, Entity: 91)
+2017-08-25 19:51:56.2644 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:57.0354 [DEBUG] Upload terrain diff. (Type: 1, Size: 198, Entity: 91)
+2017-08-25 19:51:57.0354 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:57.1678 [DEBUG] Upload terrain diff. (Type: 1, Size: 4190, Entity: 91)
+2017-08-25 19:51:57.1683 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:57.2776 [DEBUG] Upload terrain diff. (Type: 1, Size: 32, Entity: 91)
+2017-08-25 19:51:57.2776 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:57.8499 [DEBUG] Upload terrain diff. (Type: 1, Size: 1572, Entity: 91)
+2017-08-25 19:51:57.8509 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:58.3102 [DEBUG] Upload terrain diff. (Type: 1, Size: 1348, Entity: 91)
+2017-08-25 19:51:58.3107 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:58.7407 [DEBUG] Upload terrain diff. (Type: 1, Size: 1564, Entity: 91)
+2017-08-25 19:51:58.7412 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:59.5609 [DEBUG] Upload terrain diff. (Type: 1, Size: 1378, Entity: 91)
+2017-08-25 19:51:59.5614 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:59.6754 [DEBUG] Upload terrain diff. (Type: 1, Size: 740, Entity: 91)
+2017-08-25 19:51:59.6759 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:51:59.9099 [DEBUG] Upload terrain diff. (Type: 1, Size: 1504, Entity: 91)
+2017-08-25 19:51:59.9103 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:00.0180 [DEBUG] Upload terrain diff. (Type: 1, Size: 1130, Entity: 91)
+2017-08-25 19:52:00.0185 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:00.5865 [DEBUG] Upload terrain diff. (Type: 1, Size: 1254, Entity: 91)
+2017-08-25 19:52:00.5865 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:00.9305 [DEBUG] Upload terrain diff. (Type: 1, Size: 715, Entity: 91)
+2017-08-25 19:52:00.9305 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:01.4693 [DEBUG] Upload terrain diff. (Type: 1, Size: 747, Entity: 91)
+2017-08-25 19:52:01.4693 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:01.5961 [DEBUG] Upload terrain diff. (Type: 1, Size: 508, Entity: 91)
+2017-08-25 19:52:01.5961 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:02.2796 [DEBUG] Upload terrain diff. (Type: 1, Size: 811, Entity: 91)
+2017-08-25 19:52:02.2801 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:02.8227 [DEBUG] Upload terrain diff. (Type: 1, Size: 1181, Entity: 91)
+2017-08-25 19:52:02.8232 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:03.6180 [DEBUG] Upload terrain diff. (Type: 1, Size: 1481, Entity: 91)
+2017-08-25 19:52:03.6185 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:03.8306 [DEBUG] Upload terrain diff. (Type: 1, Size: 1412, Entity: 91)
+2017-08-25 19:52:03.8311 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:04.4104 [DEBUG] Upload terrain diff. (Type: 1, Size: 1311, Entity: 91)
+2017-08-25 19:52:04.4104 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:04.5193 [DEBUG] Upload terrain diff. (Type: 1, Size: 1052, Entity: 91)
+2017-08-25 19:52:04.5198 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:04.9413 [DEBUG] Upload terrain diff. (Type: 1, Size: 1394, Entity: 91)
+2017-08-25 19:52:04.9418 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:05.4063 [DEBUG] Upload terrain diff. (Type: 1, Size: 1592, Entity: 91)
+2017-08-25 19:52:05.4063 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:05.9800 [DEBUG] Upload terrain diff. (Type: 1, Size: 1058, Entity: 91)
+2017-08-25 19:52:05.9800 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:06.6536 [DEBUG] Upload terrain diff. (Type: 1, Size: 1383, Entity: 91)
+2017-08-25 19:52:06.6541 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:07.3232 [DEBUG] Upload terrain diff. (Type: 1, Size: 1277, Entity: 91)
+2017-08-25 19:52:07.3237 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:07.9119 [DEBUG] Upload terrain diff. (Type: 1, Size: 1630, Entity: 91)
+2017-08-25 19:52:07.9124 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:08.4621 [DEBUG] Upload terrain diff. (Type: 1, Size: 999, Entity: 91)
+2017-08-25 19:52:08.4626 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:08.9040 [DEBUG] Upload terrain diff. (Type: 1, Size: 1651, Entity: 91)
+2017-08-25 19:52:08.9045 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:09.5711 [DEBUG] Upload terrain diff. (Type: 1, Size: 1208, Entity: 91)
+2017-08-25 19:52:09.5716 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:10.1422 [DEBUG] Upload terrain diff. (Type: 1, Size: 1270, Entity: 91)
+2017-08-25 19:52:10.1427 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:10.5840 [DEBUG] Upload terrain diff. (Type: 1, Size: 1516, Entity: 91)
+2017-08-25 19:52:10.5845 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:11.1471 [DEBUG] Upload terrain diff. (Type: 1, Size: 1205, Entity: 91)
+2017-08-25 19:52:11.1476 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:12.0416 [DEBUG] Upload terrain diff. (Type: 1, Size: 1379, Entity: 91)
+2017-08-25 19:52:12.0416 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:12.9565 [DEBUG] Upload terrain diff. (Type: 1, Size: 1321, Entity: 91)
+2017-08-25 19:52:12.9570 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:13.2826 [DEBUG] Upload terrain diff. (Type: 1, Size: 1693, Entity: 91)
+2017-08-25 19:52:13.2826 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:13.9563 [DEBUG] Upload terrain diff. (Type: 1, Size: 1291, Entity: 91)
+2017-08-25 19:52:13.9568 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:52:15.5616 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-08-25 19:52:15.5621 [DEBUG] Disconnecting from room (38755:SceneFusion:SceneFusion)
+2017-08-25 19:52:15.5706 [INFO] Disconnected from server.
+2017-08-25 19:52:15.5706 [DEBUG] Disconnect. (Duration: 131)
+2017-08-25 19:52:17.7240 [DEBUG] Scene Fusion version 1.5.2
+2017-08-25 19:52:17.7742 [DEBUG] Play mode: True, sync in play mode: True
+2017-08-25 19:52:18.0775 [DEBUG] Connecting to room (38755:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1026
+2017-08-25 19:52:18.1261 [DEBUG] Host connection. (Session: 38755)
+2017-08-25 19:52:18.2998 [DEBUG] Authenticating with server...
+2017-08-25 19:52:18.4117 [DEBUG] Connected to room. (38755:SceneFusion:SceneFusion)
+2017-08-25 19:52:18.4293 [INFO] Connected to server.
+2017-08-25 19:52:18.4298 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-08-25 19:52:18.4298 [DEBUG] Unity Version : 2017.1.0f3
+2017-08-25 19:52:18.4298 [DEBUG] Pro License : False
+2017-08-25 19:52:18.4298 [DEBUG] Platform : WindowsEditor
+2017-08-25 19:52:18.4298 [DEBUG] Build Target : StandaloneWindows64
+2017-08-25 19:52:18.4303 [DEBUG] Scene Fusion version : 1.5.2
+2017-08-25 19:52:18.4303 [DEBUG] User : 
+2017-08-25 19:52:19.2206 [DEBUG] Tier: Beta, Permissions: FFFFFFFF
+2017-08-25 19:52:19.2206 [DEBUG] User Permissions: FFFFFFFF
+2017-08-25 19:52:19.2577 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-08-25 19:52:19.2577 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-08-25 19:52:19.2582 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-08-25 19:52:19.2582 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-08-25 19:52:19.2582 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-08-25 19:52:19.3650 [DEBUG] Terrain data downloading. (Type: 0 Size: 1052676 Entity: 89)
+2017-08-25 19:52:25.8932 [DEBUG] Terrain data download complete. (Entity: 89)
+2017-08-25 19:52:25.9584 [DEBUG] Terrain data downloading. (Type: 1 Size: 1 Entity: 89)
+2017-08-25 19:52:25.9584 [DEBUG] Terrain data download complete. (Entity: 89)
+2017-08-25 19:52:25.9594 [DEBUG] Terrain data downloading. (Type: 2 Size: 4 Entity: 89)
+2017-08-25 19:52:25.9594 [DEBUG] Terrain data download complete. (Entity: 89)
+2017-08-25 19:52:25.9604 [DEBUG] Terrain data downloading. (Type: 3 Size: 1 Entity: 89)
+2017-08-25 19:52:25.9604 [DEBUG] Terrain data download complete. (Entity: 89)
+2017-08-25 19:52:25.9609 [DEBUG] Terrain data downloading. (Type: 0 Size: 1052676 Entity: 91)
+2017-08-25 19:52:30.6759 [DEBUG] Terrain data download complete. (Entity: 91)
+2017-08-25 19:52:30.7060 [DEBUG] Terrain data downloading. (Type: 1 Size: 43408 Entity: 91)
+2017-08-25 19:52:30.7065 [DEBUG] Terrain data download complete. (Entity: 91)
+2017-08-25 19:52:30.7065 [DEBUG] Terrain data downloading. (Type: 2 Size: 4 Entity: 91)
+2017-08-25 19:52:30.7065 [DEBUG] Terrain data download complete. (Entity: 91)
+2017-08-25 19:52:30.7070 [DEBUG] Terrain data downloading. (Type: 3 Size: 1 Entity: 91)
+2017-08-25 19:52:30.7070 [DEBUG] Terrain data download complete. (Entity: 91)
+2017-08-25 19:52:58.9337 [DEBUG] Play mode: False
+2017-08-25 19:52:58.9722 [ERROR] Error setting value: Object type System.Int32 cannot be converted to target type: UnityEngine.LayerMask
+Parameter name: val
+  at System.Reflection.MonoField.SetValue (System.Object obj, System.Object val, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Globalization.CultureInfo culture) [0x000a0] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoField.cs:148 
+  at System.Reflection.FieldInfo.SetValue (System.Object obj, System.Object value) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/FieldInfo.cs:150 
+  at KS.Unity.Editor.ReflectionObject.SetValue (System.Object instance, System.Object value) [0x00000] in <filename unknown>:0 
+2017-08-25 19:53:01.8084 [DEBUG] Upload terrain diff. (Type: 1, Size: 1356, Entity: 91)
+2017-08-25 19:53:01.8089 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:02.3483 [DEBUG] Upload terrain diff. (Type: 1, Size: 1406, Entity: 91)
+2017-08-25 19:53:02.3483 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:02.4774 [DEBUG] Upload terrain diff. (Type: 1, Size: 887, Entity: 91)
+2017-08-25 19:53:02.4774 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:02.9041 [DEBUG] Upload terrain diff. (Type: 1, Size: 676, Entity: 91)
+2017-08-25 19:53:02.9041 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:03.0219 [DEBUG] Upload terrain diff. (Type: 1, Size: 438, Entity: 91)
+2017-08-25 19:53:03.0224 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:03.3269 [DEBUG] Upload terrain diff. (Type: 1, Size: 1021, Entity: 91)
+2017-08-25 19:53:03.3274 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:06.9574 [DEBUG] Upload terrain diff. (Type: 1, Size: 3034, Entity: 91)
+2017-08-25 19:53:06.9579 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:07.3967 [DEBUG] Upload terrain diff. (Type: 1, Size: 2983, Entity: 91)
+2017-08-25 19:53:07.3972 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:07.8497 [DEBUG] Upload terrain diff. (Type: 1, Size: 3018, Entity: 91)
+2017-08-25 19:53:07.8502 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:08.1855 [DEBUG] Upload terrain diff. (Type: 1, Size: 1890, Entity: 91)
+2017-08-25 19:53:08.1855 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:08.8557 [DEBUG] Upload terrain diff. (Type: 1, Size: 2824, Entity: 91)
+2017-08-25 19:53:08.8562 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:09.0679 [DEBUG] Upload terrain diff. (Type: 1, Size: 2636, Entity: 91)
+2017-08-25 19:53:09.0684 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:09.3980 [DEBUG] Upload terrain diff. (Type: 1, Size: 3086, Entity: 91)
+2017-08-25 19:53:09.3985 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:09.6271 [DEBUG] Upload terrain diff. (Type: 1, Size: 3381, Entity: 91)
+2017-08-25 19:53:09.6281 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:09.9361 [DEBUG] Upload terrain diff. (Type: 1, Size: 3119, Entity: 91)
+2017-08-25 19:53:09.9381 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:10.0478 [DEBUG] Upload terrain diff. (Type: 1, Size: 3038, Entity: 91)
+2017-08-25 19:53:10.0489 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:10.2752 [DEBUG] Upload terrain diff. (Type: 1, Size: 2447, Entity: 91)
+2017-08-25 19:53:10.2757 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:10.6309 [DEBUG] Upload terrain diff. (Type: 1, Size: 1751, Entity: 91)
+2017-08-25 19:53:10.6319 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:10.8554 [DEBUG] Upload terrain diff. (Type: 1, Size: 3071, Entity: 91)
+2017-08-25 19:53:10.8559 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:11.4107 [DEBUG] Upload terrain diff. (Type: 1, Size: 3121, Entity: 91)
+2017-08-25 19:53:11.4112 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:11.9624 [DEBUG] Upload terrain diff. (Type: 1, Size: 2347, Entity: 91)
+2017-08-25 19:53:11.9629 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:12.3026 [DEBUG] Upload terrain diff. (Type: 1, Size: 2569, Entity: 91)
+2017-08-25 19:53:12.3035 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:12.7754 [DEBUG] Upload terrain diff. (Type: 1, Size: 1834, Entity: 91)
+2017-08-25 19:53:12.7764 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:12.8937 [DEBUG] Upload terrain diff. (Type: 1, Size: 1690, Entity: 91)
+2017-08-25 19:53:12.8942 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:13.0091 [DEBUG] Upload terrain diff. (Type: 1, Size: 2865, Entity: 91)
+2017-08-25 19:53:13.0096 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:13.2249 [DEBUG] Upload terrain diff. (Type: 1, Size: 1736, Entity: 91)
+2017-08-25 19:53:13.2254 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:13.4462 [DEBUG] Upload terrain diff. (Type: 1, Size: 2793, Entity: 91)
+2017-08-25 19:53:13.4467 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:13.6483 [DEBUG] Upload terrain diff. (Type: 1, Size: 3306, Entity: 91)
+2017-08-25 19:53:13.6488 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:13.7611 [DEBUG] Upload terrain diff. (Type: 1, Size: 831, Entity: 91)
+2017-08-25 19:53:13.7616 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:13.8783 [DEBUG] Upload terrain diff. (Type: 1, Size: 1036, Entity: 91)
+2017-08-25 19:53:13.8788 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:13.9967 [DEBUG] Upload terrain diff. (Type: 1, Size: 695, Entity: 91)
+2017-08-25 19:53:13.9967 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.1104 [DEBUG] Upload terrain diff. (Type: 1, Size: 669, Entity: 91)
+2017-08-25 19:53:14.1104 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.2268 [DEBUG] Upload terrain diff. (Type: 1, Size: 3150, Entity: 91)
+2017-08-25 19:53:14.2273 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.3425 [DEBUG] Upload terrain diff. (Type: 1, Size: 2043, Entity: 91)
+2017-08-25 19:53:14.3430 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.4587 [DEBUG] Upload terrain diff. (Type: 1, Size: 2133, Entity: 91)
+2017-08-25 19:53:14.4592 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.5745 [DEBUG] Upload terrain diff. (Type: 1, Size: 1187, Entity: 91)
+2017-08-25 19:53:14.5750 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.6903 [DEBUG] Upload terrain diff. (Type: 1, Size: 1890, Entity: 91)
+2017-08-25 19:53:14.6908 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.7956 [DEBUG] Upload terrain diff. (Type: 1, Size: 1395, Entity: 91)
+2017-08-25 19:53:14.7961 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:14.9144 [DEBUG] Upload terrain diff. (Type: 1, Size: 3485, Entity: 91)
+2017-08-25 19:53:14.9149 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.0280 [DEBUG] Upload terrain diff. (Type: 1, Size: 1636, Entity: 91)
+2017-08-25 19:53:15.0280 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.1436 [DEBUG] Upload terrain diff. (Type: 1, Size: 1908, Entity: 91)
+2017-08-25 19:53:15.1441 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.2568 [DEBUG] Upload terrain diff. (Type: 1, Size: 3589, Entity: 91)
+2017-08-25 19:53:15.2578 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.3789 [DEBUG] Upload terrain diff. (Type: 1, Size: 823, Entity: 91)
+2017-08-25 19:53:15.3789 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.4968 [DEBUG] Upload terrain diff. (Type: 1, Size: 1721, Entity: 91)
+2017-08-25 19:53:15.4973 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.6245 [DEBUG] Upload terrain diff. (Type: 1, Size: 1051, Entity: 91)
+2017-08-25 19:53:15.6245 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.6245 [DEBUG] Upload terrain diff. (Type: 1, Size: 3994, Entity: 91)
+2017-08-25 19:53:15.6256 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.7396 [DEBUG] Upload terrain diff. (Type: 1, Size: 2790, Entity: 91)
+2017-08-25 19:53:15.7401 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.8594 [DEBUG] Upload terrain diff. (Type: 1, Size: 738, Entity: 91)
+2017-08-25 19:53:15.8599 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:15.9717 [DEBUG] Upload terrain diff. (Type: 1, Size: 2341, Entity: 91)
+2017-08-25 19:53:15.9727 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.0890 [DEBUG] Upload terrain diff. (Type: 1, Size: 1797, Entity: 91)
+2017-08-25 19:53:16.0895 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.2031 [DEBUG] Upload terrain diff. (Type: 1, Size: 57, Entity: 91)
+2017-08-25 19:53:16.2031 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.3185 [DEBUG] Upload terrain diff. (Type: 1, Size: 181, Entity: 91)
+2017-08-25 19:53:16.3185 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.4353 [DEBUG] Upload terrain diff. (Type: 1, Size: 627, Entity: 91)
+2017-08-25 19:53:16.4358 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.5505 [DEBUG] Upload terrain diff. (Type: 1, Size: 634, Entity: 91)
+2017-08-25 19:53:16.5505 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.6605 [DEBUG] Upload terrain diff. (Type: 1, Size: 816, Entity: 91)
+2017-08-25 19:53:16.6610 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.7837 [DEBUG] Upload terrain diff. (Type: 1, Size: 355, Entity: 91)
+2017-08-25 19:53:16.7837 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:16.8985 [DEBUG] Upload terrain diff. (Type: 1, Size: 2331, Entity: 91)
+2017-08-25 19:53:16.8990 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.0148 [DEBUG] Upload terrain diff. (Type: 1, Size: 2965, Entity: 91)
+2017-08-25 19:53:17.0153 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.1306 [DEBUG] Upload terrain diff. (Type: 1, Size: 2022, Entity: 91)
+2017-08-25 19:53:17.1311 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.2449 [DEBUG] Upload terrain diff. (Type: 1, Size: 2212, Entity: 91)
+2017-08-25 19:53:17.2454 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.3626 [DEBUG] Upload terrain diff. (Type: 1, Size: 1721, Entity: 91)
+2017-08-25 19:53:17.3631 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.4739 [DEBUG] Upload terrain diff. (Type: 1, Size: 2789, Entity: 91)
+2017-08-25 19:53:17.4754 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.5824 [DEBUG] Upload terrain diff. (Type: 1, Size: 2170, Entity: 91)
+2017-08-25 19:53:17.5829 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.7020 [DEBUG] Upload terrain diff. (Type: 1, Size: 1163, Entity: 91)
+2017-08-25 19:53:17.7025 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.8169 [DEBUG] Upload terrain diff. (Type: 1, Size: 2719, Entity: 91)
+2017-08-25 19:53:17.8179 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:17.9325 [DEBUG] Upload terrain diff. (Type: 1, Size: 1715, Entity: 91)
+2017-08-25 19:53:17.9330 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.0525 [DEBUG] Upload terrain diff. (Type: 1, Size: 540, Entity: 91)
+2017-08-25 19:53:18.0525 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.0525 [DEBUG] Upload terrain diff. (Type: 1, Size: 3245, Entity: 91)
+2017-08-25 19:53:18.0535 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.1678 [DEBUG] Upload terrain diff. (Type: 1, Size: 4143, Entity: 91)
+2017-08-25 19:53:18.1683 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.2826 [DEBUG] Upload terrain diff. (Type: 1, Size: 2762, Entity: 91)
+2017-08-25 19:53:18.2831 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.3994 [DEBUG] Upload terrain diff. (Type: 1, Size: 2097, Entity: 91)
+2017-08-25 19:53:18.3999 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.5261 [DEBUG] Upload terrain diff. (Type: 1, Size: 2052, Entity: 91)
+2017-08-25 19:53:18.5266 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.6380 [DEBUG] Upload terrain diff. (Type: 1, Size: 550, Entity: 91)
+2017-08-25 19:53:18.6380 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.7555 [DEBUG] Upload terrain diff. (Type: 1, Size: 459, Entity: 91)
+2017-08-25 19:53:18.7555 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.8689 [DEBUG] Upload terrain diff. (Type: 1, Size: 209, Entity: 91)
+2017-08-25 19:53:18.8689 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:18.9873 [DEBUG] Upload terrain diff. (Type: 1, Size: 309, Entity: 91)
+2017-08-25 19:53:18.9873 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:19.1010 [DEBUG] Upload terrain diff. (Type: 1, Size: 226, Entity: 91)
+2017-08-25 19:53:19.1010 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:19.7517 [DEBUG] Upload terrain diff. (Type: 1, Size: 950, Entity: 91)
+2017-08-25 19:53:19.7522 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:19.8654 [DEBUG] Upload terrain diff. (Type: 1, Size: 4206, Entity: 91)
+2017-08-25 19:53:19.8664 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:19.9818 [DEBUG] Upload terrain diff. (Type: 1, Size: 4051, Entity: 91)
+2017-08-25 19:53:19.9824 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:20.1114 [DEBUG] Upload terrain diff. (Type: 1, Size: 1742, Entity: 91)
+2017-08-25 19:53:20.1119 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:20.2073 [DEBUG] Upload terrain diff. (Type: 1, Size: 835, Entity: 91)
+2017-08-25 19:53:20.2078 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:20.3226 [DEBUG] Upload terrain diff. (Type: 1, Size: 942, Entity: 91)
+2017-08-25 19:53:20.3231 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:20.4445 [DEBUG] Upload terrain diff. (Type: 1, Size: 3985, Entity: 91)
+2017-08-25 19:53:20.4450 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:20.5929 [DEBUG] Upload terrain diff. (Type: 1, Size: 601, Entity: 91)
+2017-08-25 19:53:20.5934 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:20.6977 [DEBUG] Upload terrain diff. (Type: 1, Size: 36, Entity: 91)
+2017-08-25 19:53:20.6977 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:27.4268 [DEBUG] Upload terrain diff. (Type: 1, Size: 1622, Entity: 91)
+2017-08-25 19:53:27.4273 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:27.5611 [DEBUG] Upload terrain diff. (Type: 1, Size: 1495, Entity: 91)
+2017-08-25 19:53:27.5616 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:27.7772 [DEBUG] Upload terrain diff. (Type: 1, Size: 1778, Entity: 91)
+2017-08-25 19:53:27.7777 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:28.2292 [DEBUG] Upload terrain diff. (Type: 1, Size: 1778, Entity: 91)
+2017-08-25 19:53:28.2297 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:28.4569 [DEBUG] Upload terrain diff. (Type: 1, Size: 1778, Entity: 91)
+2017-08-25 19:53:28.4574 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:28.7787 [DEBUG] Upload terrain diff. (Type: 1, Size: 1780, Entity: 91)
+2017-08-25 19:53:28.7792 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:29.1138 [DEBUG] Upload terrain diff. (Type: 1, Size: 1790, Entity: 91)
+2017-08-25 19:53:29.1138 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:29.5660 [DEBUG] Upload terrain diff. (Type: 1, Size: 1773, Entity: 91)
+2017-08-25 19:53:29.5670 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:29.9164 [DEBUG] Upload terrain diff. (Type: 1, Size: 1773, Entity: 91)
+2017-08-25 19:53:29.9169 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:30.3669 [DEBUG] Upload terrain diff. (Type: 1, Size: 1779, Entity: 91)
+2017-08-25 19:53:30.3674 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:30.7009 [DEBUG] Upload terrain diff. (Type: 1, Size: 1313, Entity: 91)
+2017-08-25 19:53:30.7009 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:31.0408 [DEBUG] Upload terrain diff. (Type: 1, Size: 1949, Entity: 91)
+2017-08-25 19:53:31.0413 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:31.5759 [DEBUG] Upload terrain diff. (Type: 1, Size: 1690, Entity: 91)
+2017-08-25 19:53:31.5764 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:31.8844 [DEBUG] Upload terrain diff. (Type: 1, Size: 1916, Entity: 91)
+2017-08-25 19:53:31.8849 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:32.3035 [DEBUG] Upload terrain diff. (Type: 1, Size: 1752, Entity: 91)
+2017-08-25 19:53:32.3035 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:32.6296 [DEBUG] Upload terrain diff. (Type: 1, Size: 1770, Entity: 91)
+2017-08-25 19:53:32.6296 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:32.9732 [DEBUG] Upload terrain diff. (Type: 1, Size: 1774, Entity: 91)
+2017-08-25 19:53:32.9732 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:33.0962 [DEBUG] Upload terrain diff. (Type: 1, Size: 1801, Entity: 91)
+2017-08-25 19:53:33.0967 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:33.2865 [DEBUG] Upload terrain diff. (Type: 1, Size: 1778, Entity: 91)
+2017-08-25 19:53:33.2870 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:33.6168 [DEBUG] Upload terrain diff. (Type: 1, Size: 1970, Entity: 91)
+2017-08-25 19:53:33.6173 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:33.7520 [DEBUG] Upload terrain diff. (Type: 1, Size: 1510, Entity: 91)
+2017-08-25 19:53:33.7525 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:33.9687 [DEBUG] Upload terrain diff. (Type: 1, Size: 1778, Entity: 91)
+2017-08-25 19:53:33.9692 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:34.3227 [DEBUG] Upload terrain diff. (Type: 1, Size: 1749, Entity: 91)
+2017-08-25 19:53:34.3231 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:34.6449 [DEBUG] Upload terrain diff. (Type: 1, Size: 1778, Entity: 91)
+2017-08-25 19:53:34.6454 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:34.8866 [DEBUG] Upload terrain diff. (Type: 1, Size: 1588, Entity: 91)
+2017-08-25 19:53:34.8871 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:35.2283 [DEBUG] Upload terrain diff. (Type: 1, Size: 1517, Entity: 91)
+2017-08-25 19:53:35.2283 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:35.4492 [DEBUG] Upload terrain diff. (Type: 1, Size: 1720, Entity: 91)
+2017-08-25 19:53:35.4492 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:35.7826 [DEBUG] Upload terrain diff. (Type: 1, Size: 1781, Entity: 91)
+2017-08-25 19:53:35.7826 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:36.0052 [DEBUG] Upload terrain diff. (Type: 1, Size: 2248, Entity: 91)
+2017-08-25 19:53:36.0057 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:36.1134 [DEBUG] Upload terrain diff. (Type: 1, Size: 1854, Entity: 91)
+2017-08-25 19:53:36.1139 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:36.4524 [DEBUG] Upload terrain diff. (Type: 1, Size: 1149, Entity: 91)
+2017-08-25 19:53:36.4529 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:36.5654 [DEBUG] Upload terrain diff. (Type: 1, Size: 709, Entity: 91)
+2017-08-25 19:53:36.5654 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:36.6706 [DEBUG] Upload terrain diff. (Type: 1, Size: 2372, Entity: 91)
+2017-08-25 19:53:36.6711 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:36.7764 [DEBUG] Upload terrain diff. (Type: 1, Size: 1078, Entity: 91)
+2017-08-25 19:53:36.7764 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:37.2335 [DEBUG] Upload terrain diff. (Type: 1, Size: 2245, Entity: 91)
+2017-08-25 19:53:37.2340 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:37.5553 [DEBUG] Upload terrain diff. (Type: 1, Size: 1450, Entity: 91)
+2017-08-25 19:53:37.5559 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:37.9894 [DEBUG] Upload terrain diff. (Type: 1, Size: 1132, Entity: 91)
+2017-08-25 19:53:37.9899 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:38.1162 [DEBUG] Upload terrain diff. (Type: 1, Size: 946, Entity: 91)
+2017-08-25 19:53:38.1167 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:38.2510 [DEBUG] Upload terrain diff. (Type: 1, Size: 1502, Entity: 91)
+2017-08-25 19:53:38.2515 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:38.4284 [DEBUG] Upload terrain diff. (Type: 1, Size: 1171, Entity: 91)
+2017-08-25 19:53:38.4289 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:38.5544 [DEBUG] Upload terrain diff. (Type: 1, Size: 781, Entity: 91)
+2017-08-25 19:53:38.5544 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:38.6478 [DEBUG] Upload terrain diff. (Type: 1, Size: 864, Entity: 91)
+2017-08-25 19:53:38.6478 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:38.7816 [DEBUG] Upload terrain diff. (Type: 1, Size: 1632, Entity: 91)
+2017-08-25 19:53:38.7822 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:38.8940 [DEBUG] Upload terrain diff. (Type: 1, Size: 1259, Entity: 91)
+2017-08-25 19:53:38.8946 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:39.0245 [DEBUG] Upload terrain diff. (Type: 1, Size: 916, Entity: 91)
+2017-08-25 19:53:39.0250 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:39.1288 [DEBUG] Upload terrain diff. (Type: 1, Size: 1023, Entity: 91)
+2017-08-25 19:53:39.1288 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:39.2532 [DEBUG] Upload terrain diff. (Type: 1, Size: 1600, Entity: 91)
+2017-08-25 19:53:39.2537 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:39.4161 [DEBUG] Upload terrain diff. (Type: 1, Size: 1372, Entity: 91)
+2017-08-25 19:53:39.4166 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:42.0411 [DEBUG] Upload terrain diff. (Type: 1, Size: 2786, Entity: 91)
+2017-08-25 19:53:42.0416 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:42.1561 [DEBUG] Upload terrain diff. (Type: 1, Size: 2724, Entity: 91)
+2017-08-25 19:53:42.1566 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:42.7288 [DEBUG] Upload terrain diff. (Type: 1, Size: 2336, Entity: 91)
+2017-08-25 19:53:42.7293 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:42.9614 [DEBUG] Upload terrain diff. (Type: 1, Size: 2058, Entity: 91)
+2017-08-25 19:53:42.9619 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:43.5229 [DEBUG] Upload terrain diff. (Type: 1, Size: 2611, Entity: 91)
+2017-08-25 19:53:43.5234 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:44.0759 [DEBUG] Upload terrain diff. (Type: 1, Size: 2707, Entity: 91)
+2017-08-25 19:53:44.0764 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 19:53:44.5378 [DEBUG] Upload terrain diff. (Type: 1, Size: 2836, Entity: 91)
+2017-08-25 19:53:44.5383 [DEBUG] Upload terrain diff complete. (Entity: 91)
+2017-08-25 20:09:31.6213 [DEBUG] Disconnecting from room (38755:SceneFusion:SceneFusion)
+2017-08-25 20:09:31.6253 [INFO] Disconnected from server.
+2017-08-25 20:09:31.6253 [DEBUG] Disconnect. (Duration: -130)
