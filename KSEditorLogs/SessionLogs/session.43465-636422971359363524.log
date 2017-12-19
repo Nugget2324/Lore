@@ -1,0 +1,28 @@
+2017-09-29 15:59:21.5112 [DEBUG] Connection attempt timed out. (43465:SceneFusion:SceneFusion)
+2017-09-29 15:59:22.0298 [WARNING] Connection failed: TIMEOUT, retrying...
+2017-09-29 15:59:22.0298 [DEBUG] Connecting to room (43465:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-09-29 15:59:22.2654 [ERROR] SocketException: No such host is known.
+
+System.Net.Dns.GetHostByName (System.String hostName)
+System.Net.Dns.GetHostEntry (System.String hostNameOrAddress)
+ .⁚.Connect (System.String , Int32 , KS.Reactor.ConnectionHandler )
+UnityEngine.Debug:LogException(Exception)
+KS.Reactor.ksLog:LogToUnity(Level, String, String, Exception, Object)
+KS.Reactor.ksLog:HandleLog(String, String, String, Exception, Level, Object)
+KS.Reactor.ksLog:Log(⁚, String, Exception, Level, Object)
+KS.Reactor.ksLog:Error(⁚, String, Exception)
+.⁚:Connect(String, Int32, ConnectionHandler)
+KS.Reactor.Client.ksBaseRoom`2:Connect(PlayerControllerFactory, ksInput, ConnectCallback, Protocol, ConnectHandler, ksMultiType[])
+KS.Reactor.Client.ksService:JoinRoom(ksBaseRoom, Protocol, ConnectHandler, ksMultiType[])
+KS.SceneFusion.Client.Editor.CoEditService:Update()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions()
+
+2017-09-29 15:59:22.4524 [ERROR] Error connecting to console.kinematicsoup.com: No such host is known.
+
+  at System.Net.Dns.GetHostByName (System.String hostName) [0x00000] in <filename unknown>:0 
+  at System.Net.Dns.GetHostEntry (System.String hostNameOrAddress) [0x00000] in <filename unknown>:0 
+  at  .⁚.Connect (System.String , Int32 , KS.Reactor.ConnectionHandler ) [0x00000] in <filename unknown>:0 
+2017-09-29 15:59:42.4495 [DEBUG] Refresh token (KFqmYn2t2D3Lome5ABq3Gf4n6Ax8pTEYeBa5e7WdSWsCz5exrhJxkCBrSQRtl7y2dSKLl1iFG9xRWuACpWAHJtFjHb06CchU0ByQu1gi6xjrkjYndI52hNjRk3tcMn6RdEIjHPPqbjcu0apdLIqU7IARFHWYhWfeIhPSljXzownfUiASlQYgHQ6m8U8Pu70PbRia0qoLkazxGwYlgiUwzOCGyku2mjKjjENjDsSkcIW7BfaYjrPghxAXqokf3Df) error: {"err":"Error getting response stream (ReadDone1): ReceiveFailure"}
+2017-09-29 16:00:22.5046 [DEBUG] Disconnecting temporarily to recompile.
+2017-09-29 16:00:22.5046 [DEBUG] Aborting connection attempt for room (43465:SceneFusion:SceneFusion)
+2017-09-29 16:00:22.5046 [DEBUG] Connection attempt aborted. (43465:SceneFusion:SceneFusion)

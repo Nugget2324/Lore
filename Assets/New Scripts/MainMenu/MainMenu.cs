@@ -31,6 +31,14 @@ namespace NS
         public void video()
         {
             Allpanel[15].gameObject.active = true;
+            Allpanel[16].gameObject.active = false;
+
+        }
+
+        public void sound()
+        {
+            Allpanel[15].gameObject.active = false;
+            Allpanel[16].gameObject.active = true;
 
         }
 

@@ -1,0 +1,33 @@
+2017-09-29 16:21:51.8381 [DEBUG] Authenticating with server...
+2017-09-29 16:21:52.1369 [DEBUG] Connected to room. (43471:SceneFusion:SceneFusion)
+2017-09-29 16:21:52.1509 [INFO] Connected to server.
+2017-09-29 16:21:52.1514 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-09-29 16:21:52.1514 [DEBUG] Unity Version : 2017.1.0f3
+2017-09-29 16:21:52.1514 [DEBUG] Pro License : False
+2017-09-29 16:21:52.1519 [DEBUG] Platform : WindowsEditor
+2017-09-29 16:21:52.1519 [DEBUG] Build Target : StandaloneWindows64
+2017-09-29 16:21:52.1519 [DEBUG] Scene Fusion version : 1.6.0
+2017-09-29 16:21:52.1524 [DEBUG] User : 
+2017-09-29 16:21:52.2191 [DEBUG] Tier: SF Essential 4, Permissions: 00000003
+2017-09-29 16:21:52.2191 [DEBUG] User Permissions: FFFFFFFF
+2017-09-29 16:21:52.4201 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-09-29 16:21:52.4206 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-09-29 16:21:52.4206 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-09-29 16:21:52.4206 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-09-29 16:21:52.4206 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-09-29 16:21:52.7896 [DEBUG] Uploading scene 'Map 1'
+2017-09-29 16:21:53.1716 [DEBUG] Spawn request. (Objects: 82)
+2017-09-29 16:22:24.4290 [INFO] Generating UnityEngine.TerrainData 'Assets/New Terrain 3.asset'.
+2017-09-29 16:22:26.2568 [DEBUG] Confirmed terrain checksum. (Type: 0 Entity: 85)
+2017-09-29 16:22:26.2573 [DEBUG] Confirmed terrain checksum. (Type: 0 Entity: 85)
+2017-09-29 16:22:26.4642 [DEBUG] Confirmed terrain checksum. (Type: 1 Entity: 85)
+2017-09-29 16:22:26.4672 [DEBUG] Confirmed terrain checksum. (Type: 1 Entity: 85)
+2017-09-29 16:22:26.6798 [DEBUG] Confirmed terrain checksum. (Type: 2 Entity: 85)
+2017-09-29 16:22:26.6808 [DEBUG] Confirmed terrain checksum. (Type: 2 Entity: 85)
+2017-09-29 16:22:26.8901 [DEBUG] Confirmed terrain checksum. (Type: 3 Entity: 85)
+2017-09-29 16:22:26.8916 [DEBUG] Confirmed terrain checksum. (Type: 3 Entity: 85)
+2017-09-29 16:26:38.7433 [DEBUG] Spawn request. (Objects: 1)
+2017-09-29 16:28:24.6781 [DEBUG] Refresh token (q1KTdDgZ34FMA70jPNk78o126TaiLoLwiAc149jLdTMNEjXg0fNEu36LZfzzDOyFP6WeNjljPuYCn5mq6DcZksfW5gikkTodhGSoRcNuxSaT9IdcdyeKcDnMprnCiyO0w0rIcbcqaYafUUlNnolfTwmnGaQnBleakEOXosLwjE6Lr4W7wlYlQTq4ARkqDx8zIG0kffuK8sjU7RDliwUh7c1369NBkYCIt0FI3cYJ2ylk7m38UIUdt1qEJFk8jdF) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2017-09-29 16:29:46.2374 [DEBUG] Disconnecting from room (43471:SceneFusion:SceneFusion)
+2017-09-29 16:29:46.2434 [INFO] Disconnected from server.
+2017-09-29 16:29:46.2439 [DEBUG] Disconnect. (Duration: 474)

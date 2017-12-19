@@ -13,22 +13,30 @@ namespace NS
         public Dropdown resolutionDropdown;
         public Dropdown displayMonitor;
         //public Dropdown displayRatio;
+        public Dropdown graphicOption;
         public Button applyButton;
+        public Button defaultButton;
+        //Performance dropdown
+        public GameObject performanceList;
+        public Button performanceButton;
+        public bool isOn = false;
 
+        public Graphic[] graphics;
         public Display[] monitors;
         public Resolution[] resolutions;
         public GameSettings gameSettings;
 
         void Start()
         {
-            if (Screen.fullScreen == true)
+            if(displaySize.value == 1)
             {
-                Debug.Log("True");
+                Screen.fullScreen = false;
             }
-            else if (Screen.fullScreen == false)
+            else if(displaySize.value == 0)
             {
-                Debug.Log("False");
+                Screen.fullScreen = true;
             }
+            
         }
         void OnEnable()
         {
@@ -38,7 +46,10 @@ namespace NS
             displaySize.onValueChanged.AddListener(delegate { onFullScreen(); });
             resolutionDropdown.onValueChanged.AddListener(delegate { onResolutionChange(); });
             displayMonitor.onValueChanged.AddListener(delegate { onMonitorChange(); });
+            graphicOption.onValueChanged.AddListener(delegate { onGraphicChange(); });
             applyButton.onClick.AddListener(delegate { onApplyClick(); });
+            defaultButton.onClick.AddListener(delegate { onDefaultClick(); });
+            performanceButton.onClick.AddListener(delegate { onPerformanceClick(); });
 
             resolutions = Screen.resolutions;
             monitors = Display.displays;
@@ -53,7 +64,7 @@ namespace NS
                 i++;
                 displayMonitor.options.Add(new Dropdown.OptionData("Monitor "+i));
             }
-
+            
             loadSettings();
         }
 
@@ -82,6 +93,27 @@ namespace NS
             gameSettings.displayMonitor = displayMonitor.value;
         }
 
+        public void onGraphicChange()
+        {
+            gameSettings.graphicIndex = graphicOption.value;
+            QualitySettings.SetQualityLevel(gameSettings.graphicIndex);
+        }
+
+        public void onPerformanceClick()
+        {
+            if (!isOn)
+            {
+                performanceList.SetActive(true);
+                isOn = true;
+            }
+            else
+            {
+                performanceList.SetActive(false);
+                isOn = false;
+            }
+            
+        }
+
         public void onApplyClick()
         {
             SaveSettings();
@@ -89,7 +121,7 @@ namespace NS
 
         public void onDefaultClick()
         {
-
+            defaultSettings();
         }
 
         public void ratioLeftClick()
@@ -111,7 +143,12 @@ namespace NS
 
         public void defaultSettings()
         {
-
+            resolutionDropdown.value = 21;
+            displayMonitor.value = 0;
+            displaySize.value = 0;
+            displaySize.RefreshShownValue();
+            displayMonitor.RefreshShownValue();
+            resolutionDropdown.RefreshShownValue();
         }
 
         public void loadSettings()
@@ -122,8 +159,10 @@ namespace NS
                 resolutionDropdown.value = gameSettings.resolutionIndex;
                 displayMonitor.value = gameSettings.displayMonitor;
                 displaySize.value = gameSettings.displaySize;
+                graphicOption.value = gameSettings.graphicIndex;
                 //displayRatio.value = gameSettings.displayRatio;
                 //displayRatio.RefreshShownValue();
+                graphicOption.RefreshShownValue();
                 displaySize.RefreshShownValue();
                 displayMonitor.RefreshShownValue();
                 resolutionDropdown.RefreshShownValue();

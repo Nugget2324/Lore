@@ -1,0 +1,237 @@
+2017-10-09 10:54:08.0690 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 10:55:51.5379 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 11:29:38.4387 [ERROR] MissingReferenceException: The object of type 'Terrain' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEditor.TerrainInspector.OnSceneGUICallback (UnityEditor.SceneView sceneView) (at C:/buildslave/unity/build/Editor/Mono/TerrainEditor/TerrainInspector.cs:1803)
+UnityEditor.SceneView.CallOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:2419)
+UnityEditor.SceneView.HandleSelectionAndOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1737)
+UnityEditor.SceneView.OnGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1569)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-10-09 11:29:38.4982 [ERROR] MissingReferenceException: The object of type 'Terrain' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEditor.TerrainInspector.OnSceneGUICallback (UnityEditor.SceneView sceneView) (at C:/buildslave/unity/build/Editor/Mono/TerrainEditor/TerrainInspector.cs:1803)
+UnityEditor.SceneView.CallOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:2419)
+UnityEditor.SceneView.HandleSelectionAndOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1737)
+UnityEditor.SceneView.OnGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1569)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-10-09 11:29:38.8217 [ERROR] MissingReferenceException: The object of type 'Terrain' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEditor.TerrainInspector.OnSceneGUICallback (UnityEditor.SceneView sceneView) (at C:/buildslave/unity/build/Editor/Mono/TerrainEditor/TerrainInspector.cs:1803)
+UnityEditor.SceneView.CallOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:2419)
+UnityEditor.SceneView.HandleSelectionAndOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1737)
+UnityEditor.SceneView.OnGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1569)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-10-09 11:29:38.8242 [ERROR] MissingReferenceException: The object of type 'Terrain' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEditor.TerrainInspector.OnSceneGUICallback (UnityEditor.SceneView sceneView) (at C:/buildslave/unity/build/Editor/Mono/TerrainEditor/TerrainInspector.cs:1803)
+UnityEditor.SceneView.CallOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:2419)
+UnityEditor.SceneView.HandleSelectionAndOnSceneGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1737)
+UnityEditor.SceneView.OnGUI () (at C:/buildslave/unity/build/Editor/Mono/SceneView/SceneView.cs:1569)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:232)
+
+2017-10-09 12:43:37.9579 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 12:58:27.7361 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 12:58:30.0318 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 12:58:30.0543 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 12:58:37.7677 [DEBUG] Play mode: False
+2017-10-09 13:02:25.5023 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:02:25.6105 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:03:05.0765 [DEBUG] Play mode: False
+2017-10-09 13:05:09.7589 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:05:09.8777 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:07:33.5339 [DEBUG] Play mode: False
+2017-10-09 13:08:44.5745 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:08:44.6886 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:10:13.6198 [DEBUG] Play mode: False
+2017-10-09 13:11:47.4053 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:11:47.4514 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:11:50.8307 [DEBUG] Play mode: False
+2017-10-09 13:12:03.5749 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:12:03.6653 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:15:58.8183 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.kode80Clouds.CloudHeightGradient (UnityEngine.Gradient gradient) (at Assets/kode80/Clouds/Scripts/kode80Clouds.cs:659)
+kode80.Clouds.kode80Clouds.UpdateGradientVectors () (at Assets/kode80/Clouds/Scripts/kode80Clouds.cs:330)
+kode80.Clouds.kode80Clouds.Awake () (at Assets/kode80/Clouds/Scripts/kode80Clouds.cs:260)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-10-09 13:15:58.8223 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.kode80Clouds.OnDrawGizmos () (at Assets/kode80/Clouds/Scripts/kode80Clouds.cs:174)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-10-09 13:15:58.8424 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.kode80Clouds.OnDrawGizmos () (at Assets/kode80/Clouds/Scripts/kode80Clouds.cs:174)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-10-09 13:17:01.1419 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.CreateCloudsCamera () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:296)
+kode80.Clouds.CloudsEditor.OnEnable () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:333)
+UnityEditor.EditorWindow:GetWindow(Type)
+kode80.Clouds.CloudsEditor:Init() (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:76)
+
+2017-10-09 13:17:01.1516 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshRenderTexture () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:390)
+kode80.Clouds.CloudsEditor.Update () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:99)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.SendUpdate () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:341)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2017-10-09 13:17:01.1541 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshCamerasArray () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:895)
+kode80.Clouds.CloudsEditor.OnHierarchyChange () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:461)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.OnHierarchyChange () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:169)
+
+2017-10-09 13:17:12.4981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshCamerasArray () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:895)
+kode80.Clouds.CloudsEditor.OnHierarchyChange () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:461)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.OnHierarchyChange () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:169)
+
+2017-10-09 13:17:15.9899 [DEBUG] Play mode: False
+2017-10-09 13:17:18.4005 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:17:18.4868 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:17:21.0265 [DEBUG] Play mode: False
+2017-10-09 13:17:26.8124 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:17:26.8957 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:17:35.2464 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.CreateCloudsCamera () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:296)
+kode80.Clouds.CloudsEditor.OnEnable () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:333)
+UnityEditor.EditorWindow:GetWindow(Type)
+kode80.Clouds.CloudsEditor:Init() (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:76)
+
+2017-10-09 13:17:35.2610 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshRenderTexture () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:390)
+kode80.Clouds.CloudsEditor.Update () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:99)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.SendUpdate () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:341)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2017-10-09 13:17:35.2630 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshCamerasArray () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:895)
+kode80.Clouds.CloudsEditor.OnHierarchyChange () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:461)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.OnHierarchyChange () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:169)
+
+2017-10-09 13:17:58.1167 [DEBUG] Play mode: False
+2017-10-09 13:18:00.5182 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:18:03.8657 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.CreateCloudsCamera () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:296)
+kode80.Clouds.CloudsEditor.OnEnable () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:333)
+UnityEditor.EditorWindow:GetWindow(Type)
+kode80.Clouds.CloudsEditor:Init() (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:76)
+
+2017-10-09 13:18:03.8826 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:18:03.8912 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshRenderTexture () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:390)
+kode80.Clouds.CloudsEditor.Update () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:99)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.SendUpdate () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:341)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2017-10-09 13:18:03.8937 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshCamerasArray () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:895)
+kode80.Clouds.CloudsEditor.OnHierarchyChange () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:461)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.OnHierarchyChange () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:169)
+
+2017-10-09 13:19:52.4752 [DEBUG] Play mode: False
+2017-10-09 13:20:34.4380 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:20:42.3303 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.CreateCloudsCamera () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:296)
+kode80.Clouds.CloudsEditor.OnEnable () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:333)
+UnityEditor.EditorWindow:GetWindow(Type)
+kode80.Clouds.CloudsEditor:Init() (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:76)
+
+2017-10-09 13:20:42.4077 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:20:42.4152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshRenderTexture () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:390)
+kode80.Clouds.CloudsEditor.Update () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:99)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.SendUpdate () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:341)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at C:/buildslave/unity/build/Editor/Mono/EditorApplication.cs:109)
+
+2017-10-09 13:20:42.4167 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+kode80.Clouds.CloudsEditor.RefreshCamerasArray () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:895)
+kode80.Clouds.CloudsEditor.OnHierarchyChange () (at Assets/kode80/Clouds/Editor/CloudsEditor.cs:461)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:272)
+UnityEditor.HostView.Invoke (System.String methodName) (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:265)
+UnityEditor.HostView.OnHierarchyChange () (at C:/buildslave/unity/build/Editor/Mono/HostView.cs:169)
+
+2017-10-09 13:20:44.9159 [DEBUG] Play mode: False
+2017-10-09 13:20:56.0335 [DEBUG] Scene Fusion version 1.6.0-1
+2017-10-09 13:20:56.1317 [DEBUG] Play mode: True, sync in play mode: True
+2017-10-09 13:21:07.3537 [DEBUG] Play mode: False
+2017-10-09 13:22:53.7082 [DEBUG] Scene Fusion version 1.6.0-1

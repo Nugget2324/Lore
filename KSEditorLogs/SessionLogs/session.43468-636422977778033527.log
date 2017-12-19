@@ -1,0 +1,151 @@
+2017-09-29 16:02:57.9612 [DEBUG] Authenticating with server...
+2017-09-29 16:02:58.0740 [DEBUG] Connected to room. (43468:SceneFusion:SceneFusion)
+2017-09-29 16:02:58.0921 [INFO] Connected to server.
+2017-09-29 16:02:58.0921 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-09-29 16:02:58.0921 [DEBUG] Unity Version : 2017.1.0f3
+2017-09-29 16:02:58.0926 [DEBUG] Pro License : False
+2017-09-29 16:02:58.0926 [DEBUG] Platform : WindowsEditor
+2017-09-29 16:02:58.0926 [DEBUG] Build Target : StandaloneWindows64
+2017-09-29 16:02:58.0926 [DEBUG] Scene Fusion version : 1.6.0
+2017-09-29 16:02:58.0931 [DEBUG] User : 
+2017-09-29 16:02:58.2129 [DEBUG] Tier: SF Essential 4, Permissions: 00000003
+2017-09-29 16:02:58.2129 [DEBUG] User Permissions: FFFFFFFF
+2017-09-29 16:02:58.7704 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-09-29 16:02:58.7704 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-09-29 16:02:58.7704 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-09-29 16:02:58.7709 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-09-29 16:02:58.7709 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-09-29 16:04:25.7088 [DEBUG] Spawn request. (Objects: 1)
+2017-09-29 16:05:14.5245 [DEBUG] Refresh token (moPI5j7gh2bfX7BLnAhEFA2qd6LgXQgOZWcEifB9a51oknue6dTlppR5atjtnSO2yLKFb5qQMJ9AwZpOwpDsW2WjPGWwusgASuedBnTgiBppkOGiTwnFcgXcn5uo8n6eW5oRpeIXOO9nUyCpHhJeXlAQfGpceCw2XutcyijHTiUr7taME5nWFKINOtduD4bkLJp6duEtQdbmQCm4cXKxudFF1cR2BByrslK2ADjXStLceQUcFms6qcxm1LTBhAn) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2017-09-29 16:05:56.9654 [ERROR] DirectoryNotFoundException: Could not find a part of the path "C:\Users\Lathu\Desktop\LORE\LORE\Resources\unity_builtin_extra".
+System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/FileStream.cs:292)
+System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share)
+(wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+System.IO.File.OpenRead (System.String path) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/File.cs:363)
+System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/StreamReader.cs:167)
+System.IO.StreamReader..ctor (System.String path)
+(wrapper remoting-invoke-with-check) System.IO.StreamReader:.ctor (string)
+System.IO.File.OpenText (System.String path) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/File.cs:368)
+System.IO.File.ReadAllLines (System.String path) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/File.cs:560)
+ShaderForge.SF_Parser.ExtractShaderForgeData (UnityEngine.Shader s, System.Single& version, Boolean setPath, Boolean findRenderers, Boolean findLOD)
+ShaderForge.SF_Parser.ContainsShaderForgeData (UnityEngine.Shader s)
+UnityEditor.ShaderForgeInspector.AnalyzeShader () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:152)
+UnityEditor.ShaderForgeInspector.OnEnable () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:93)
+
+2017-09-29 16:05:57.0441 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.0476 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.0627 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.0662 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.0802 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.0837 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.0988 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.1033 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.2592 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.2632 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.7661 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:57.7701 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:58.3358 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:58.3383 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:58.7374 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:05:58.7404 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.ShaderForgeInspector.InitStyles () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:136)
+UnityEditor.ShaderForgeInspector.DrawUnitysInspector () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:254)
+UnityEditor.ShaderForgeInspector.OnInspectorGUI () (at Assets/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs:213)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor[] editors, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1240)
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+2017-09-29 16:07:27.3859 [DEBUG] Spawn request. (Objects: 1)
+2017-09-29 16:08:23.3483 [DEBUG] Spawn request. (Objects: 1)
+2017-09-29 16:08:23.6523 [DEBUG] Disconnecting from room (43468:SceneFusion:SceneFusion)
+2017-09-29 16:08:26.1793 [INFO] Disconnected from server.
+2017-09-29 16:08:26.1793 [DEBUG] Disconnect. (Duration: 324)
